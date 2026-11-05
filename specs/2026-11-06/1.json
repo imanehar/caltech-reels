@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-06-1",
+  "music": 1,
+  "meta": {"hook": "Combien d'heures par semaine à rappeler tes clients?", "format": "sauve-du-temps", "industry": "Plomberie / CVC", "region": "Laval"},
+  "scenes": [
+    {"type": "hook", "kicker": "Plomberie · Laval", "lines": ["Combien d'heures", "par semaine", "au téléphone?"], "accent_line": 2,
+     "sub": "À rappeler, confirmer, replanifier…", "pill": "Regarde ça"},
+    {"type": "statement", "kicker": "Aujourd'hui", "lines": ["12 appels manqués.", "8 messages vocaux.", "Une soirée perdue."], "accent_line": 2,
+     "after": "Et 3 clients sont allés ailleurs."},
+    {"type": "card", "kicker": "Avec un agent IA", "intro": "chaque appel manqué devient ça :", "title": "Nouvel appel", "tag": "Urgent",
+     "rows": [["Client", "Sophie L."], ["Problème", "Chauffe-eau qui fuit"], ["Adresse", "Chomedey, Laval"], ["Dispo", "Demain matin"], ["Réponse", "Texto en 1 minute"]],
+     "confirm": ["Rendez-vous réservé", "Demain 8:30 · Sophie L. · Chomedey"]},
+    {"type": "statement", "kicker": "Résultat", "lines": ["Jusqu'à 10 h", "de moins au", "téléphone."], "accent_line": 0, "dark": false,
+     "after": "Exemple pour une équipe de 5 techniciens."},
+    {"type": "cta", "lines": ["Chaque appel répondu.", "Même sur un chantier."], "keyword": "AUDIT",
+     "sub": "et on t'envoie 3 tâches que ton entreprise peut automatiser.", "free": "Gratuit."}
+  ],
+  "caption": "Appels manqués, messages vocaux, rappels le soir… Un agent IA répond à chaque appel par texto, prend les infos et réserve le rendez-vous — pendant que tu travailles.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Plomberie #AgentIA #Automatisation #Laval"
+}

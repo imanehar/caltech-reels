@@ -1,0 +1,130 @@
+{
+  "id": "sample-soumission",
+  "music": 0,
+  "scenes": [
+    {
+      "type": "hook",
+      "kicker": "Rénovation · Laval",
+      "lines": [
+        "Il est 21 h 14.",
+        "Un client veut",
+        "une soumission."
+      ],
+      "accent_line": 0,
+      "sub": "Toi, t'es en train de souper.",
+      "pill": "Regarde ce qui se passe"
+    },
+    {
+      "type": "notif",
+      "time": "21:14",
+      "date": "mardi 4 novembre",
+      "label": "Nouvelle demande · site web",
+      "title": "Rénovation salle de bain",
+      "lines": [
+        "Marc T. · Laval",
+        "Budget : environ 25 000 $"
+      ],
+      "caption": "D'habitude, elle attend à demain."
+    },
+    {
+      "type": "chat",
+      "business": "Rénovations Boréal",
+      "initials": "RB",
+      "badge": "Réponse en 32 secondes",
+      "messages": [
+        {
+          "side": "ai",
+          "text": "Bonjour Marc! Ici l'assistant de Rénovations Boréal. Merci pour ta demande."
+        },
+        {
+          "side": "ai",
+          "text": "Tu voudrais commencer quand? Peux-tu m'envoyer 2-3 photos de la salle de bain?"
+        },
+        {
+          "side": "client",
+          "text": "Idéalement en janvier. Je t'envoie ça!"
+        },
+        {
+          "side": "client",
+          "photos": 3
+        },
+        {
+          "side": "ai",
+          "text": "Parfait. Visite jeudi à 10 h, ça te va?"
+        },
+        {
+          "side": "client",
+          "text": "Oui, parfait!"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "kicker": "Pendant ce temps",
+      "intro": "le proprio reçoit ça :",
+      "title": "Résumé du projet",
+      "tag": "Lead chaud",
+      "rows": [
+        [
+          "Projet",
+          "Salle de bain complète"
+        ],
+        [
+          "Ville",
+          "Laval"
+        ],
+        [
+          "Budget",
+          "~ 25 000 $"
+        ],
+        [
+          "Début",
+          "Janvier"
+        ],
+        [
+          "Photos",
+          "3 reçues"
+        ],
+        [
+          "Score",
+          "9 / 10"
+        ]
+      ],
+      "confirm": [
+        "Visite ajoutée au calendrier",
+        "Jeudi 10:00 · Marc T. · Laval"
+      ]
+    },
+    {
+      "type": "statement",
+      "kicker": "2 jours plus tard",
+      "lines": [
+        "La relance part",
+        "toute seule."
+      ],
+      "accent_line": 1,
+      "bubble": {
+        "label": "Relance automatique",
+        "text": "Salut Marc! Ta soumission est prête. As-tu des questions avant de signer?"
+      },
+      "after": "Personne n'a eu à y penser."
+    },
+    {
+      "type": "cta",
+      "lines": [
+        "Aucune demande perdue.",
+        "Même à 21 h."
+      ],
+      "keyword": "AUDIT",
+      "sub": "et on t'envoie 3 tâches que ton entreprise peut automatiser.",
+      "free": "Gratuit."
+    }
+  ],
+  "caption": "Une demande de soumission à 21 h, répondue en 32 secondes, qualifiée et transformée en visite — sans que personne lève le petit doigt.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Rénovation #AgentIA #Automatisation #Entrepreneur",
+  "meta": {
+    "hook": "Il est 21 h 14. Un client veut une soumission.",
+    "format": "regarde-comment",
+    "industry": "Rénovation / construction",
+    "region": "Laval"
+  }
+}

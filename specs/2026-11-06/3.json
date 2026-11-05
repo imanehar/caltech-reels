@@ -1,0 +1,20 @@
+{
+  "id": "2026-11-06-3",
+  "music": 0,
+  "meta": {"hook": "La saison du déneigement, avant et après un agent IA", "format": "avant-apres", "industry": "Paysagement / déneigement", "region": "Capitale-Nationale"},
+  "scenes": [
+    {"type": "hook", "kicker": "Déneigement · Québec", "lines": ["La saison", "commence.", "T'es prêt?"], "accent_line": 2,
+     "sub": "Contrats, horaires, factures… avant et après.", "pill": "Avant / après"},
+    {"type": "list", "dark": false, "title": "Avant", "items": [
+      ["Contrats sur papier", "Des appels pour chaque renouvellement."],
+      ["Horaires sur un tableau", "Un chauffeur absent et tout déboule."],
+      ["Factures en retard", "Les relances, c'est toi, le soir."]]},
+    {"type": "list", "dark": true, "title": "Après", "items": [
+      ["Renouvellements en ligne", "Le client signe et paie en 2 minutes."],
+      ["Routes mises à jour", "Les chauffeurs reçoivent leur liste."],
+      ["Factures envoyées seules", "Avec les rappels automatiques."]]},
+    {"type": "cta", "lines": ["Ta saison, sans le chaos.", "Même en tempête."], "keyword": "AUDIT",
+     "sub": "et on t'envoie 3 tâches que ton entreprise peut automatiser.", "free": "Gratuit."}
+  ],
+  "caption": "Renouvellements, routes, factures : la saison de déneigement est une course. Un agent IA s'occupe de l'administratif pour que ton équipe s'occupe de la neige.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Déneigement #AgentIA #Automatisation #Québec"
+}

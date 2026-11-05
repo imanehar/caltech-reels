@@ -1,0 +1,22 @@
+{
+  "id": "2026-11-06-2",
+  "music": 2,
+  "meta": {"hook": "Combien te coûte une soumission oubliée?", "format": "cout-cache", "industry": "Électriciens", "region": "Montérégie"},
+  "scenes": [
+    {"type": "hook", "kicker": "Électricité · Montérégie", "lines": ["Combien te coûte", "une soumission", "oubliée?"], "accent_line": 2,
+     "sub": "Fais le calcul avec nous.", "pill": "Le calcul"},
+    {"type": "statement", "kicker": "Exemple", "lines": ["4 soumissions", "oubliées par mois", "× 6 000 $"], "accent_line": 2,
+     "bubble": {"label": "Par année", "text": "Jusqu'à 288 000 $ de contrats qui partent chez un autre électricien."},
+     "after": "Juste parce que personne n'a relancé."},
+    {"type": "chat", "business": "Électrique Richelieu", "initials": "ER", "badge": "Relance automatique · jour 3",
+     "messages": [
+       {"side": "ai", "text": "Bonjour Karine! Avez-vous eu la chance de regarder notre soumission pour le panneau 200 A?"},
+       {"side": "client", "text": "Oui! J'avais une question sur les délais."},
+       {"side": "ai", "text": "Bonne nouvelle : on a une place le 18 novembre. Je vous la réserve?"},
+       {"side": "client", "text": "Parfait, on y va!"}
+     ]},
+    {"type": "cta", "lines": ["Plus aucune soumission", "oubliée."], "keyword": "AUDIT",
+     "sub": "et on t'envoie 3 tâches que ton entreprise peut automatiser.", "free": "Gratuit."}
+  ],
+  "caption": "Une soumission envoyée, puis… rien. Pas parce que le client a dit non — parce que personne n'a relancé. Un agent IA fait les relances pour toi, au bon moment.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Électricien #AgentIA #Automatisation #Montérégie"
+}

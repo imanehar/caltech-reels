@@ -1,1 +1,44 @@
-{"items": []}
+{
+  "items": [
+    {
+      "id": "2026-11-06-1",
+      "file": "videos/2026-11-06-1.mp4",
+      "post_at": "2026-11-06T08:00:00-05:00",
+      "caption": "Appels manqués, messages vocaux, rappels le soir… Un agent IA répond à chaque appel par texto, prend les infos et réserve le rendez-vous — pendant que tu travailles.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Plomberie #AgentIA #Automatisation #Laval",
+      "hook": "Combien d'heures par semaine à rappeler tes clients?",
+      "format": "sauve-du-temps",
+      "industry": "Plomberie / CVC",
+      "region": "Laval",
+      "duration": 25.6,
+      "video_url": "https://cdn.jsdelivr.net/gh/imanehar/caltech-reels@7c66e29aeeb5c22d66bb7980843ff01d3f01dbb9/videos/2026-11-06-1.mp4",
+      "raw_url": "https://raw.githubusercontent.com/imanehar/caltech-reels/7c66e29aeeb5c22d66bb7980843ff01d3f01dbb9/videos/2026-11-06-1.mp4"
+    },
+    {
+      "id": "2026-11-06-2",
+      "file": "videos/2026-11-06-2.mp4",
+      "post_at": "2026-11-06T12:30:00-05:00",
+      "caption": "Une soumission envoyée, puis… rien. Pas parce que le client a dit non — parce que personne n'a relancé. Un agent IA fait les relances pour toi, au bon moment.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Électricien #AgentIA #Automatisation #Montérégie",
+      "hook": "Combien te coûte une soumission oubliée?",
+      "format": "cout-cache",
+      "industry": "Électriciens",
+      "region": "Montérégie",
+      "duration": 26.6,
+      "video_url": "https://cdn.jsdelivr.net/gh/imanehar/caltech-reels@7c66e29aeeb5c22d66bb7980843ff01d3f01dbb9/videos/2026-11-06-2.mp4",
+      "raw_url": "https://raw.githubusercontent.com/imanehar/caltech-reels/7c66e29aeeb5c22d66bb7980843ff01d3f01dbb9/videos/2026-11-06-2.mp4"
+    },
+    {
+      "id": "2026-11-06-3",
+      "file": "videos/2026-11-06-3.mp4",
+      "post_at": "2026-11-06T18:00:00-05:00",
+      "caption": "Renouvellements, routes, factures : la saison de déneigement est une course. Un agent IA s'occupe de l'administratif pour que ton équipe s'occupe de la neige.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Déneigement #AgentIA #Automatisation #Québec",
+      "hook": "La saison du déneigement, avant et après un agent IA",
+      "format": "avant-apres",
+      "industry": "Paysagement / déneigement",
+      "region": "Capitale-Nationale",
+      "duration": 22.3,
+      "video_url": "https://cdn.jsdelivr.net/gh/imanehar/caltech-reels@7c66e29aeeb5c22d66bb7980843ff01d3f01dbb9/videos/2026-11-06-3.mp4",
+      "raw_url": "https://raw.githubusercontent.com/imanehar/caltech-reels/7c66e29aeeb5c22d66bb7980843ff01d3f01dbb9/videos/2026-11-06-3.mp4"
+    }
+  ],
+  "updated_at": "2026-11-05T15:28:12-05:00"
+}

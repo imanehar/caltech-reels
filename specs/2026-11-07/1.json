@@ -1,18 +1,69 @@
 {
   "id": "2026-11-07-1",
   "music": 2,
-  "meta": {"hook": "Ton cabinet court après les documents?", "format": "3-taches", "industry": "Cabinets comptables", "region": "Laurentides"},
+  "meta": {
+    "hook": "Ton cabinet court après les documents?",
+    "format": "3-taches",
+    "industry": "Cabinets comptables",
+    "region": "Laurentides"
+  },
   "scenes": [
-    {"type": "hook", "kicker": "Comptabilité · Laurentides", "lines": ["Ton cabinet", "court après", "les documents?"], "accent_line": 2,
-     "sub": "Reçus, relevés, signatures… chaque année.", "pill": "3 tâches à confier"},
-    {"type": "list", "dark": false, "title": "3 tâches à confier à un agent IA cette semaine", "items": [
-      ["Relances de documents", "Le client reçoit un rappel jusqu'à ce que tout soit là."],
-      ["Tri des reçus et factures", "Photo ou courriel : classé dans le bon dossier."],
-      ["Prise de rendez-vous", "Tes clients réservent leur rencontre en ligne."]]},
-    {"type": "statement", "kicker": "Pendant ce temps", "lines": ["Ton équipe fait", "de la vraie", "comptabilité."], "accent_line": 2,
-     "after": "Pas de la chasse aux papiers."},
-    {"type": "cta", "lines": ["Prêt pour les impôts.", "Sans courir après personne."], "keyword": "AUDIT",
-     "sub": "et on t'envoie 3 tâches que ton entreprise peut automatiser.", "free": "Gratuit."}
+    {
+      "type": "hook",
+      "kicker": "Comptabilité · Laurentides",
+      "lines": [
+        "Ton cabinet",
+        "court après",
+        "les documents?"
+      ],
+      "accent_line": 2,
+      "sub": "Reçus, relevés, signatures… chaque année.",
+      "pill": "3 tâches à confier"
+    },
+    {
+      "type": "list",
+      "dark": false,
+      "title": "3 tâches à confier à un agent IA cette semaine",
+      "items": [
+        [
+          "Relances de documents",
+          "Le client reçoit un rappel jusqu'à ce que tout soit là."
+        ],
+        [
+          "Tri des reçus et factures",
+          "Photo ou courriel : classé dans le bon dossier."
+        ],
+        [
+          "Prise de rendez-vous",
+          "Tes clients réservent leur rencontre en ligne."
+        ]
+      ]
+    },
+    {
+      "type": "statement",
+      "kicker": "Pendant ce temps",
+      "lines": [
+        "Ton équipe fait",
+        "de la vraie",
+        "comptabilité."
+      ],
+      "accent_line": 2,
+      "after": "Pas de la chasse aux papiers.",
+      "bubble": {
+        "label": "Rappel automatique",
+        "text": "Bonjour Nadia! Il manque encore ton relevé T4. Tu peux le déposer ici en 1 minute."
+      }
+    },
+    {
+      "type": "cta",
+      "lines": [
+        "Prêt pour les impôts.",
+        "Sans courir après personne."
+      ],
+      "keyword": "AUDIT",
+      "sub": "et on t'envoie 3 tâches que ton entreprise peut automatiser.",
+      "free": "Gratuit."
+    }
   ],
   "caption": "Relancer les clients pour leurs papiers, trier les reçus, fixer les rencontres… Un agent IA s'en occupe pour que ton cabinet des Laurentides se concentre sur la comptabilité.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Comptabilité #AgentIA #Automatisation #Laurentides"
 }

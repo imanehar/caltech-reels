@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-07-3",
+  "music": 1,
+  "meta": {"hook": "Combien d'heures à confirmer des rendez-vous?", "format": "sauve-du-temps", "industry": "Cliniques", "region": "Estrie"},
+  "scenes": [
+    {"type": "hook", "kicker": "Clinique · Estrie", "lines": ["Combien d'heures", "à confirmer des", "rendez-vous?"], "accent_line": 2,
+     "sub": "Appels, boîtes vocales, annulations…", "pill": "Regarde ça"},
+    {"type": "statement", "kicker": "Chaque matin", "lines": ["40 appels à faire.", "15 boîtes vocales.", "2 trous à l'horaire."], "accent_line": 2,
+     "after": "Et la journée vient juste de commencer."},
+    {"type": "card", "kicker": "Avec un agent IA", "intro": "chaque rendez-vous se confirme comme ça :", "title": "Confirmation", "tag": "Automatique",
+     "rows": [["Patient", "Luc B."], ["Rendez-vous", "Mardi 9:15"], ["Rappel", "Texto 48 h avant"], ["Réponse", "« Oui, je serai là »"], ["Annulation", "Liste d'attente avisée"]],
+     "confirm": ["Horaire mis à jour", "Mardi 9:15 · Luc B. · confirmé"]},
+    {"type": "statement", "kicker": "Résultat", "lines": ["Jusqu'à 6 h", "de moins au", "téléphone."], "accent_line": 0, "dark": false,
+     "after": "Par semaine · exemple, 4 professionnels."},
+    {"type": "cta", "lines": ["Moins d'appels.", "Moins de trous à l'horaire."], "keyword": "AUDIT",
+     "sub": "et on t'envoie 3 tâches que ton entreprise peut automatiser.", "free": "Gratuit."}
+  ],
+  "caption": "Rappels, confirmations, places libérées offertes à la liste d'attente… Un agent IA s'occupe de l'horaire pour que ta réception en Estrie puisse s'occuper des patients.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Clinique #AgentIA #Automatisation #Estrie"
+}

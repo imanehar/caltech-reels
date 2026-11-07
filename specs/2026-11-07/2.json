@@ -1,0 +1,26 @@
+{
+  "id": "2026-11-07-2",
+  "music": 0,
+  "meta": {"hook": "Samedi, 7 h 52. Une acheteuse veut visiter.", "format": "regarde-comment", "industry": "Courtiers immobiliers", "region": "Lanaudière"},
+  "scenes": [
+    {"type": "hook", "kicker": "Immobilier · Lanaudière", "lines": ["Samedi, 7 h 52.", "Une acheteuse", "veut visiter."], "accent_line": 0,
+     "sub": "Toi, t'es déjà en visite libre.", "pill": "Regarde ce qui se passe"},
+    {"type": "notif", "time": "07:52", "date": "samedi 7 novembre", "label": "Nouvelle demande · fiche web", "title": "Maison à Repentigny",
+     "lines": ["Julie R. · Terrebonne", "Préapprouvée : oui"], "caption": "D'habitude, elle attend à lundi."},
+    {"type": "chat", "business": "Immo Rive-Nord", "initials": "IR", "badge": "Réponse en 41 secondes", "messages": [
+      {"side": "ai", "text": "Bonjour Julie! Ici l'assistant d'Immo Rive-Nord. Merci pour ton intérêt pour la maison à Repentigny."},
+      {"side": "ai", "text": "Tu serais disponible quand pour une visite?"},
+      {"side": "client", "text": "Demain après-midi, ce serait l'idéal!"},
+      {"side": "ai", "text": "Dimanche 14 h, c'est libre. Je te réserve ça?"},
+      {"side": "client", "text": "Oui, parfait!"}]},
+    {"type": "card", "kicker": "Pendant ce temps", "intro": "le courtier reçoit ça :", "title": "Résumé de l'acheteuse", "tag": "Lead chaud",
+     "rows": [["Propriété", "Maison · Repentigny"], ["Acheteuse", "Julie R."], ["Financement", "Préapprouvée"], ["Visite", "Dimanche 14:00"], ["Délai", "Achat d'ici 3 mois"], ["Score", "8 / 10"]],
+     "confirm": ["Visite ajoutée au calendrier", "Dimanche 14:00 · Julie R. · Repentigny"]},
+    {"type": "statement", "kicker": "Après la visite", "lines": ["Le suivi part", "tout seul."], "accent_line": 1,
+     "bubble": {"label": "Suivi automatique", "text": "Salut Julie! Merci d'être venue. Veux-tu qu'on regarde une offre ensemble?"},
+     "after": "Personne n'a eu à y penser."},
+    {"type": "cta", "lines": ["Aucun acheteur oublié.", "Même la fin de semaine."], "keyword": "AUDIT",
+     "sub": "et on t'envoie 3 tâches que ton entreprise peut automatiser.", "free": "Gratuit."}
+  ],
+  "caption": "Une demande de visite un samedi matin dans Lanaudière, répondue en moins d'une minute, qualifiée et mise au calendrier — pendant que tu fais ta visite libre.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Immobilier #AgentIA #Automatisation #Lanaudière"
+}

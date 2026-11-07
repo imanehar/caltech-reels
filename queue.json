@@ -25,9 +25,48 @@
       "duration": 22.3,
       "video_url": "https://cdn.jsdelivr.net/gh/imanehar/caltech-reels@7c66e29aeeb5c22d66bb7980843ff01d3f01dbb9/videos/2026-11-06-3.mp4",
       "raw_url": "https://raw.githubusercontent.com/imanehar/caltech-reels/7c66e29aeeb5c22d66bb7980843ff01d3f01dbb9/videos/2026-11-06-3.mp4"
+    },
+    {
+      "id": "2026-11-07-1",
+      "file": "videos/2026-11-07-1.mp4",
+      "post_at": "2026-11-07T08:00:00-05:00",
+      "caption": "Relancer les clients pour leurs papiers, trier les reçus, fixer les rencontres… Un agent IA s'en occupe pour que ton cabinet des Laurentides se concentre sur la comptabilité.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Comptabilité #AgentIA #Automatisation #Laurentides",
+      "hook": "Ton cabinet court après les documents?",
+      "format": "3-taches",
+      "industry": "Cabinets comptables",
+      "region": "Laurentides",
+      "duration": 21.4,
+      "video_url": "https://cdn.jsdelivr.net/gh/imanehar/caltech-reels@dc06bf45b6f380b56c62cc9765f536daa86d384c/videos/2026-11-07-1.mp4",
+      "raw_url": "https://raw.githubusercontent.com/imanehar/caltech-reels/dc06bf45b6f380b56c62cc9765f536daa86d384c/videos/2026-11-07-1.mp4"
+    },
+    {
+      "id": "2026-11-07-2",
+      "file": "videos/2026-11-07-2.mp4",
+      "post_at": "2026-11-07T12:30:00-05:00",
+      "caption": "Une demande de visite un samedi matin dans Lanaudière, répondue en moins d'une minute, qualifiée et mise au calendrier — pendant que tu fais ta visite libre.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Immobilier #AgentIA #Automatisation #Lanaudière",
+      "hook": "Samedi, 7 h 52. Une acheteuse veut visiter.",
+      "format": "regarde-comment",
+      "industry": "Courtiers immobiliers",
+      "region": "Lanaudière",
+      "duration": 37.3,
+      "video_url": "https://cdn.jsdelivr.net/gh/imanehar/caltech-reels@dc06bf45b6f380b56c62cc9765f536daa86d384c/videos/2026-11-07-2.mp4",
+      "raw_url": "https://raw.githubusercontent.com/imanehar/caltech-reels/dc06bf45b6f380b56c62cc9765f536daa86d384c/videos/2026-11-07-2.mp4"
+    },
+    {
+      "id": "2026-11-07-3",
+      "file": "videos/2026-11-07-3.mp4",
+      "post_at": "2026-11-07T18:00:00-05:00",
+      "caption": "Rappels, confirmations, places libérées offertes à la liste d'attente… Un agent IA s'occupe de l'horaire pour que ta réception en Estrie puisse s'occuper des patients.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Clinique #AgentIA #Automatisation #Estrie",
+      "hook": "Combien d'heures à confirmer des rendez-vous?",
+      "format": "sauve-du-temps",
+      "industry": "Cliniques",
+      "region": "Estrie",
+      "duration": 25.6,
+      "video_url": "https://cdn.jsdelivr.net/gh/imanehar/caltech-reels@dc06bf45b6f380b56c62cc9765f536daa86d384c/videos/2026-11-07-3.mp4",
+      "raw_url": "https://raw.githubusercontent.com/imanehar/caltech-reels/dc06bf45b6f380b56c62cc9765f536daa86d384c/videos/2026-11-07-3.mp4"
     }
   ],
-  "updated_at": "2026-11-05T15:28:12-05:00",
+  "updated_at": "2026-11-07T05:39:58-05:00",
   "posted": [
     "2026-11-06-1"
   ]

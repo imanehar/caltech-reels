@@ -1,0 +1,20 @@
+{
+  "id": "2026-11-08-2",
+  "music": 2,
+  "meta": {"hook": "Encore 50 appels « Il est où mon envoi? »", "format": "avant-apres", "industry": "Transport / logistique", "region": "Outaouais"},
+  "scenes": [
+    {"type": "hook", "kicker": "Transport · Outaouais", "lines": ["Encore 50 appels", "« Il est où", "mon envoi? »"], "accent_line": 1,
+     "sub": "Et ta répartitrice qui répond à tout.", "pill": "Avant / après"},
+    {"type": "list", "dark": false, "title": "Avant", "items": [
+      ["Le téléphone sonne sans arrêt", "Les clients veulent savoir où est leur livraison."],
+      ["Bons de livraison à la main", "Recopiés le soir dans le système."],
+      ["Retards annoncés trop tard", "Le client l'apprend quand le camion n'arrive pas."]]},
+    {"type": "list", "dark": true, "title": "Après", "items": [
+      ["Suivi envoyé automatiquement", "Le client reçoit un texto avec l'heure prévue."],
+      ["Preuve de livraison classée", "Photo et signature vont direct au dossier."],
+      ["Retard? Client avisé", "Un message part dès que l'horaire change."]]},
+    {"type": "cta", "lines": ["Moins d'appels.", "Plus de livraisons."], "keyword": "AUDIT",
+     "sub": "et on t'envoie 3 tâches que ton entreprise peut automatiser.", "free": "Gratuit."}
+  ],
+  "caption": "Les appels « Il est où mon envoi? », les bons recopiés le soir, les retards annoncés trop tard… Un agent IA tient tes clients au courant pendant que ton équipe fait rouler les camions en Outaouais.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Transport #Logistique #AgentIA #Outaouais"
+}

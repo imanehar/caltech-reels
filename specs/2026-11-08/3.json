@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-08-3",
+  "music": 0,
+  "meta": {"hook": "Ton usine roule. Ton bureau, lui, déborde?", "format": "3-taches", "industry": "Manufacturiers", "region": "Chaudière-Appalaches"},
+  "scenes": [
+    {"type": "hook", "kicker": "Manufacturier · Chaudière-Appalaches", "lines": ["Ton usine roule.", "Ton bureau, lui,", "déborde?"], "accent_line": 2,
+     "sub": "Commandes, soumissions, suivis fournisseurs…", "pill": "3 tâches à confier"},
+    {"type": "list", "dark": false, "title": "3 tâches à confier à un agent IA cette semaine", "items": [
+      ["Saisie des bons de commande", "Le PDF du client entre tout seul dans ton système."],
+      ["Relance des soumissions", "Un suivi part 3 jours après chaque envoi."],
+      ["Suivi des fournisseurs", "L'agent confirme les dates de livraison des pièces."]]},
+    {"type": "statement", "kicker": "Pendant ce temps", "lines": ["Ton équipe gère", "la production.", "Pas la paperasse."], "accent_line": 2,
+     "bubble": {"label": "Relance automatique", "text": "Bonjour Sylvie! Avez-vous eu le temps de regarder notre soumission pour les 500 supports?"},
+     "after": "Personne n'a eu à y penser."},
+    {"type": "cta", "lines": ["Moins de paperasse.", "Plus de production."], "keyword": "AUDIT",
+     "sub": "et on t'envoie 3 tâches que ton entreprise peut automatiser.", "free": "Gratuit."}
+  ],
+  "caption": "Saisir les commandes, relancer les soumissions, courir après les fournisseurs… 3 tâches qu'un agent IA peut prendre en charge pour les manufacturiers de Chaudière-Appalaches.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Manufacturier #AgentIA #Automatisation #ChaudièreAppalaches"
+}

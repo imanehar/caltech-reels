@@ -1,0 +1,20 @@
+{
+  "id": "2026-11-08-1",
+  "music": 1,
+  "meta": {"hook": "Combien te coûte une demande de traiteur oubliée?", "format": "cout-cache", "industry": "Restaurants / traiteurs", "region": "Mauricie"},
+  "scenes": [
+    {"type": "hook", "kicker": "Traiteur · Mauricie", "lines": ["Combien te coûte", "une demande de", "traiteur oubliée?"], "accent_line": 2,
+     "sub": "Le courriel arrive en plein coup de feu.", "pill": "Fais le calcul"},
+    {"type": "statement", "kicker": "Exemple simple", "lines": ["2 demandes perdues", "par semaine × 800 $", "= 6 400 $ / mois."], "accent_line": 2,
+     "after": "Exemple. Fais le calcul avec tes chiffres."},
+    {"type": "chat", "business": "Traiteur Saint-Maurice", "initials": "TS", "badge": "Réponse en 38 secondes", "messages": [
+      {"side": "client", "text": "Bonjour! Un buffet pour 60 personnes le 12 décembre, c'est possible?"},
+      {"side": "ai", "text": "Bonjour! Ici l'assistant du Traiteur Saint-Maurice. Oui, le 12 est encore libre."},
+      {"side": "ai", "text": "C'est pour un party de bureau? Des allergies à prévoir?"},
+      {"side": "client", "text": "Oui, party de Noël. Deux sans gluten."},
+      {"side": "ai", "text": "Parfait! Je t'envoie 3 menus et une soumission d'ici une heure."}]},
+    {"type": "cta", "lines": ["Zéro demande oubliée.", "Même en plein service."], "keyword": "AUDIT",
+     "sub": "et on t'envoie 3 tâches que ton entreprise peut automatiser.", "free": "Gratuit."}
+  ],
+  "caption": "En plein service, une demande de traiteur peut dormir dans la boîte courriel… et partir chez le voisin. Un agent IA répond tout de suite, pose les bonnes questions et prépare la soumission. Pour les restos et traiteurs de la Mauricie comme d'ailleurs.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Traiteur #AgentIA #Automatisation #Mauricie"
+}

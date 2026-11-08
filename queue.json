@@ -64,9 +64,48 @@
       "duration": 25.6,
       "video_url": "https://cdn.jsdelivr.net/gh/imanehar/caltech-reels@a50925e5d3e97f4cda16263d2f09a1fe8ad4dbec/videos/2026-11-07-3.mp4",
       "raw_url": "https://raw.githubusercontent.com/imanehar/caltech-reels/a50925e5d3e97f4cda16263d2f09a1fe8ad4dbec/videos/2026-11-07-3.mp4"
+    },
+    {
+      "id": "2026-11-08-1",
+      "file": "videos/2026-11-08-1.mp4",
+      "post_at": "2026-11-08T08:00:00-05:00",
+      "caption": "En plein service, une demande de traiteur peut dormir dans la boîte courriel… et partir chez le voisin. Un agent IA répond tout de suite, pose les bonnes questions et prépare la soumission. Pour les restos et traiteurs de la Mauricie comme d'ailleurs.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Traiteur #AgentIA #Automatisation #Mauricie",
+      "hook": "Combien te coûte une demande de traiteur oubliée?",
+      "format": "cout-cache",
+      "industry": "Restaurants / traiteurs",
+      "region": "Mauricie",
+      "duration": 27.8,
+      "video_url": "https://cdn.jsdelivr.net/gh/imanehar/caltech-reels@e30e4291656dba1146ad72b71e02e08591f6f96d/videos/2026-11-08-1.mp4",
+      "raw_url": "https://raw.githubusercontent.com/imanehar/caltech-reels/e30e4291656dba1146ad72b71e02e08591f6f96d/videos/2026-11-08-1.mp4"
+    },
+    {
+      "id": "2026-11-08-2",
+      "file": "videos/2026-11-08-2.mp4",
+      "post_at": "2026-11-08T12:30:00-05:00",
+      "caption": "Les appels « Il est où mon envoi? », les bons recopiés le soir, les retards annoncés trop tard… Un agent IA tient tes clients au courant pendant que ton équipe fait rouler les camions en Outaouais.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Transport #Logistique #AgentIA #Outaouais",
+      "hook": "Encore 50 appels « Il est où mon envoi? »",
+      "format": "avant-apres",
+      "industry": "Transport / logistique",
+      "region": "Outaouais",
+      "duration": 22.3,
+      "video_url": "https://cdn.jsdelivr.net/gh/imanehar/caltech-reels@e30e4291656dba1146ad72b71e02e08591f6f96d/videos/2026-11-08-2.mp4",
+      "raw_url": "https://raw.githubusercontent.com/imanehar/caltech-reels/e30e4291656dba1146ad72b71e02e08591f6f96d/videos/2026-11-08-2.mp4"
+    },
+    {
+      "id": "2026-11-08-3",
+      "file": "videos/2026-11-08-3.mp4",
+      "post_at": "2026-11-08T18:00:00-05:00",
+      "caption": "Saisir les commandes, relancer les soumissions, courir après les fournisseurs… 3 tâches qu'un agent IA peut prendre en charge pour les manufacturiers de Chaudière-Appalaches.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Manufacturier #AgentIA #Automatisation #ChaudièreAppalaches",
+      "hook": "Ton usine roule. Ton bureau, lui, déborde?",
+      "format": "3-taches",
+      "industry": "Manufacturiers",
+      "region": "Chaudière-Appalaches",
+      "duration": 22.8,
+      "video_url": "https://cdn.jsdelivr.net/gh/imanehar/caltech-reels@e30e4291656dba1146ad72b71e02e08591f6f96d/videos/2026-11-08-3.mp4",
+      "raw_url": "https://raw.githubusercontent.com/imanehar/caltech-reels/e30e4291656dba1146ad72b71e02e08591f6f96d/videos/2026-11-08-3.mp4"
     }
   ],
-  "updated_at": "2026-11-07T05:41:00-05:00",
+  "updated_at": "2026-11-08T05:39:24-05:00",
   "posted": [
     "2026-11-06-1"
   ]

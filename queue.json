@@ -103,9 +103,48 @@
       "duration": 22.8,
       "video_url": "https://cdn.jsdelivr.net/gh/imanehar/caltech-reels@e30e4291656dba1146ad72b71e02e08591f6f96d/videos/2026-11-08-3.mp4",
       "raw_url": "https://raw.githubusercontent.com/imanehar/caltech-reels/e30e4291656dba1146ad72b71e02e08591f6f96d/videos/2026-11-08-3.mp4"
+    },
+    {
+      "id": "2026-11-09-1",
+      "file": "videos/2026-11-09-1.mp4",
+      "post_at": "2026-11-09T08:00:00-05:00",
+      "caption": "Un message à 22 h un dimanche, répondu en 20 secondes, article réservé et rappel envoyé — pendant que ta boutique du Centre-du-Québec est fermée.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #CommerceDeDétail #AgentIA #Automatisation #CentreDuQuébec",
+      "hook": "Dimanche, 22 h. Une cliente veut un manteau en M.",
+      "format": "regarde-comment",
+      "industry": "Commerce de détail",
+      "region": "Centre-du-Québec",
+      "duration": 37.5,
+      "video_url": "https://cdn.jsdelivr.net/gh/imanehar/caltech-reels@67ae65267941522c75ba324cc18466a367746fb2/videos/2026-11-09-1.mp4",
+      "raw_url": "https://raw.githubusercontent.com/imanehar/caltech-reels/67ae65267941522c75ba324cc18466a367746fb2/videos/2026-11-09-1.mp4"
+    },
+    {
+      "id": "2026-11-09-2",
+      "file": "videos/2026-11-09-2.mp4",
+      "post_at": "2026-11-09T12:30:00-05:00",
+      "caption": "Demande reçue, photos classées, urgence évaluée, fournisseur assigné, locataire avisé. Un agent IA gère les réparations de tes immeubles au Saguenay–Lac-Saint-Jean pendant que tu gères le reste.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #GestionImmobilière #AgentIA #Automatisation #Saguenay",
+      "hook": "Combien d'heures sur les demandes de réparation?",
+      "format": "sauve-du-temps",
+      "industry": "Gestion immobilière",
+      "region": "Saguenay–Lac-Saint-Jean",
+      "duration": 25.6,
+      "video_url": "https://cdn.jsdelivr.net/gh/imanehar/caltech-reels@67ae65267941522c75ba324cc18466a367746fb2/videos/2026-11-09-2.mp4",
+      "raw_url": "https://raw.githubusercontent.com/imanehar/caltech-reels/67ae65267941522c75ba324cc18466a367746fb2/videos/2026-11-09-2.mp4"
+    },
+    {
+      "id": "2026-11-09-3",
+      "file": "videos/2026-11-09-3.mp4",
+      "post_at": "2026-11-09T18:00:00-05:00",
+      "caption": "Sur le chantier, tu peux pas toujours répondre. Un agent IA texte le client tout de suite, comprend son projet et booke la visite — avant qu'il appelle quelqu'un d'autre.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Rénovation #AgentIA #Automatisation #BasSaintLaurent",
+      "hook": "Combien te coûte un appel manqué sur le chantier?",
+      "format": "cout-cache",
+      "industry": "Rénovation / construction",
+      "region": "Bas-Saint-Laurent",
+      "duration": 26.8,
+      "video_url": "https://cdn.jsdelivr.net/gh/imanehar/caltech-reels@67ae65267941522c75ba324cc18466a367746fb2/videos/2026-11-09-3.mp4",
+      "raw_url": "https://raw.githubusercontent.com/imanehar/caltech-reels/67ae65267941522c75ba324cc18466a367746fb2/videos/2026-11-09-3.mp4"
     }
   ],
-  "updated_at": "2026-11-08T05:39:24-05:00",
+  "updated_at": "2026-11-09T05:40:07-05:00",
   "posted": [
     "2026-11-06-1"
   ]

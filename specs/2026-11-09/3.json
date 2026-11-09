@@ -1,0 +1,22 @@
+{
+  "id": "2026-11-09-3",
+  "music": 2,
+  "meta": {"hook": "Combien te coûte un appel manqué sur le chantier?", "format": "cout-cache", "industry": "Rénovation / construction", "region": "Bas-Saint-Laurent"},
+  "scenes": [
+    {"type": "hook", "kicker": "Rénovation · Bas-Saint-Laurent", "lines": ["Combien te coûte", "un appel manqué", "sur le chantier?"], "accent_line": 1,
+     "sub": "T'as les mains pleines. Le téléphone sonne.", "pill": "Le calcul"},
+    {"type": "statement", "kicker": "Exemple", "lines": ["3 appels manqués", "par semaine", "1 sur 5 = contrat"], "accent_line": 2,
+     "bubble": {"label": "Par année", "text": "Jusqu'à 30 projets de 8 000 $ qui partent chez un autre entrepreneur."},
+     "after": "Juste parce que personne n'a répondu."},
+    {"type": "chat", "business": "Construction Mitis", "initials": "CM", "badge": "Texto envoyé après l'appel manqué",
+     "messages": [
+       {"side": "ai", "text": "Bonjour! Ici l'assistant de Construction Mitis. Désolé d'avoir manqué ton appel. C'est pour quel projet?"},
+       {"side": "client", "text": "Refaire ma galerie avant l'hiver prochain."},
+       {"side": "ai", "text": "Parfait! On peut passer voir ça mercredi à 16 h. Ça te va?"},
+       {"side": "client", "text": "Oui, mercredi c'est bon!"}
+     ]},
+    {"type": "cta", "lines": ["Plus aucun appel", "perdu."], "keyword": "AUDIT",
+     "sub": "et on t'envoie 3 tâches que ton entreprise peut automatiser.", "free": "Gratuit."}
+  ],
+  "caption": "Sur le chantier, tu peux pas toujours répondre. Un agent IA texte le client tout de suite, comprend son projet et booke la visite — avant qu'il appelle quelqu'un d'autre.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Rénovation #AgentIA #Automatisation #BasSaintLaurent"
+}

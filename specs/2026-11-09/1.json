@@ -1,0 +1,28 @@
+{
+  "id": "2026-11-09-1",
+  "music": 0,
+  "meta": {"hook": "Dimanche, 22 h. Une cliente veut un manteau en M.", "format": "regarde-comment", "industry": "Commerce de détail", "region": "Centre-du-Québec"},
+  "scenes": [
+    {"type": "hook", "kicker": "Boutique · Centre-du-Québec", "lines": ["Dimanche, 22 h.", "Une cliente veut", "un manteau en M."], "accent_line": 0,
+     "sub": "Ta boutique est fermée depuis 17 h.", "pill": "Regarde ce qui se passe"},
+    {"type": "notif", "time": "22:03", "date": "dimanche 8 novembre", "label": "Nouveau message · Facebook", "title": "Manteau d'hiver noir",
+     "lines": ["Julie P. · Drummondville", "« Il vous en reste en M? »"], "caption": "D'habitude, elle attend à lundi midi."},
+    {"type": "chat", "business": "Boutique Saint-François", "initials": "SF", "badge": "Réponse en 20 secondes",
+     "messages": [
+       {"side": "ai", "text": "Bonsoir Julie! Ici l'assistant de la Boutique Saint-François. Oui, il nous en reste 2 en M."},
+       {"side": "client", "text": "Super! Vous pouvez m'en garder un?"},
+       {"side": "ai", "text": "C'est fait. Tu veux passer le chercher lundi ou mardi?"},
+       {"side": "client", "text": "Lundi après le travail, vers 17 h."},
+       {"side": "ai", "text": "Parfait, il t'attend à la caisse lundi à 17 h. Bonne soirée!"}
+     ]},
+    {"type": "card", "kicker": "Pendant ce temps", "intro": "la boutique reçoit ça :", "title": "Article réservé", "tag": "Vente assurée",
+     "rows": [["Cliente", "Julie P."], ["Article", "Manteau d'hiver noir"], ["Taille", "M"], ["Inventaire", "1 restant après"], ["Ramassage", "Lundi 17:00"]],
+     "confirm": ["Réservation ajoutée", "Lundi 17:00 · Julie P. · caisse"]},
+    {"type": "statement", "kicker": "Lundi, 15 h", "lines": ["Le rappel part", "tout seul."], "accent_line": 1,
+     "bubble": {"label": "Rappel automatique", "text": "Salut Julie! Ton manteau est prêt à la caisse. On t'attend vers 17 h."},
+     "after": "Personne n'a eu à y penser."},
+    {"type": "cta", "lines": ["Aucun message oublié.", "Même le dimanche soir."], "keyword": "AUDIT",
+     "sub": "et on t'envoie 3 tâches que ton entreprise peut automatiser.", "free": "Gratuit."}
+  ],
+  "caption": "Un message à 22 h un dimanche, répondu en 20 secondes, article réservé et rappel envoyé — pendant que ta boutique du Centre-du-Québec est fermée.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #CommerceDeDétail #AgentIA #Automatisation #CentreDuQuébec"
+}

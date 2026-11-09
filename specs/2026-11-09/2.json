@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-09-2",
+  "music": 1,
+  "meta": {"hook": "Combien d'heures sur les demandes de réparation?", "format": "sauve-du-temps", "industry": "Gestion immobilière", "region": "Saguenay–Lac-Saint-Jean"},
+  "scenes": [
+    {"type": "hook", "kicker": "Immeubles · Saguenay", "lines": ["Combien d'heures", "sur les demandes", "de réparation?"], "accent_line": 2,
+     "sub": "Un robinet qui coule, un chauffage qui lâche…", "pill": "Regarde ça"},
+    {"type": "statement", "kicker": "Chaque semaine", "lines": ["Des appels.", "Des textos.", "Des photos perdues."], "accent_line": 2,
+     "after": "Et c'est toi qui recolles les morceaux."},
+    {"type": "card", "kicker": "Avec un agent IA", "intro": "chaque demande arrive comme ça :", "title": "Bon de travail", "tag": "Automatique",
+     "rows": [["Locataire", "Appart. 304"], ["Problème", "Plinthe ne chauffe pas"], ["Photos", "2 reçues"], ["Urgence", "Élevée · hiver"], ["Assigné à", "Électricien · demain"]],
+     "confirm": ["Locataire avisé", "Demain 9:00 · App. 304 · électricien"]},
+    {"type": "statement", "kicker": "Résultat", "lines": ["Jusqu'à 5 h", "de moins par", "semaine."], "accent_line": 0, "dark": false,
+     "after": "Exemple · parc de 80 logements."},
+    {"type": "cta", "lines": ["Moins d'appels.", "Des locataires au chaud."], "keyword": "AUDIT",
+     "sub": "et on t'envoie 3 tâches que ton entreprise peut automatiser.", "free": "Gratuit."}
+  ],
+  "caption": "Demande reçue, photos classées, urgence évaluée, fournisseur assigné, locataire avisé. Un agent IA gère les réparations de tes immeubles au Saguenay–Lac-Saint-Jean pendant que tu gères le reste.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #GestionImmobilière #AgentIA #Automatisation #Saguenay"
+}

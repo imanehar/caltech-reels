@@ -1,5 +1,5 @@
 {
- "idx": 10,
+ "idx": 13,
  "recent_hooks": [
   "Il est 21 h 14. Un client veut une soumission.",
   "Combien d'heures par semaine à rappeler tes clients?",
@@ -10,6 +10,9 @@
   "Combien d'heures à confirmer des rendez-vous?",
   "Combien te coûte une demande de traiteur oubliée?",
   "Encore 50 appels « Il est où mon envoi? »",
-  "Ton usine roule. Ton bureau, lui, déborde?"
+  "Ton usine roule. Ton bureau, lui, déborde?",
+  "Dimanche, 22 h. Une cliente veut un manteau en M.",
+  "Combien d'heures sur les demandes de réparation?",
+  "Combien te coûte un appel manqué sur le chantier?"
  ]
 }

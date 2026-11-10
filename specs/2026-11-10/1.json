@@ -1,0 +1,20 @@
+{
+  "id": "2026-11-10-1",
+  "music": 1,
+  "meta": {"hook": "-30 à Rouyn. La fournaise lâche.", "format": "avant-apres", "industry": "Plomberie / CVC", "region": "Abitibi-Témiscamingue"},
+  "scenes": [
+    {"type": "hook", "kicker": "Chauffage · Abitibi", "lines": ["-30 à Rouyn.", "La fournaise", "lâche."], "accent_line": 0,
+     "sub": "Ton téléphone sonne. T'es déjà sur un appel.", "pill": "Avant / après"},
+    {"type": "list", "dark": false, "title": "Avant", "items": [
+      ["Boîte vocale pleine", "Le client appelle le prochain sur la liste."],
+      ["Horaire sur un papier", "Tu rappelles tout le monde pour déplacer."],
+      ["Factures le dimanche", "Écrites à la main, après la semaine."]]},
+    {"type": "list", "dark": true, "title": "Après", "items": [
+      ["Chaque appel a sa réponse", "L'agent note l'urgence et l'adresse."],
+      ["Urgences en premier", "Le technicien reçoit sa route mise à jour."],
+      ["Facture envoyée sur place", "Le client paie avant que tu repartes."]]},
+    {"type": "cta", "lines": ["Aucune urgence manquée.", "Même à -30."], "keyword": "AUDIT",
+     "sub": "et on t'envoie 3 tâches que ton entreprise peut automatiser.", "free": "Gratuit."}
+  ],
+  "caption": "En plein hiver, chaque appel manqué, c'est un client qui appelle quelqu'un d'autre. Un agent IA répond, trie les urgences et envoie la facture pendant que ton équipe de l'Abitibi-Témiscamingue est sur le terrain.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Plomberie #Chauffage #AgentIA #AbitibiTémiscamingue"
+}

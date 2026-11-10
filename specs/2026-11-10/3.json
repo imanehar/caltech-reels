@@ -1,0 +1,28 @@
+{
+  "id": "2026-11-10-3",
+  "music": 0,
+  "meta": {"hook": "5 h 40. Première tempête. Le téléphone sonne déjà.", "format": "regarde-comment", "industry": "Paysagement / déneigement", "region": "Gaspésie–Îles-de-la-Madeleine"},
+  "scenes": [
+    {"type": "hook", "kicker": "Déneigement · Gaspésie", "lines": ["5 h 40.", "Première", "tempête."], "accent_line": 0,
+     "sub": "Le téléphone sonne déjà. Toi, t'es dans la souffleuse.", "pill": "Regarde ce qui se passe"},
+    {"type": "notif", "time": "05:41", "date": "mardi 10 novembre", "label": "Nouveau message · texto", "title": "« Vous passez quand? »",
+     "lines": ["Louise B. · Gaspé", "« Je pars travailler à 7 h. »"], "caption": "D'habitude, 30 messages comme ça."},
+    {"type": "chat", "business": "Déneigement Chaleur", "initials": "DC", "badge": "Réponse en 15 secondes",
+     "messages": [
+       {"side": "ai", "text": "Bonjour Louise! Ici l'assistant de Déneigement Chaleur. Ton entrée est sur la route de Simon."},
+       {"side": "ai", "text": "Il est à 4 arrêts de chez toi. Passage prévu vers 6 h 30."},
+       {"side": "client", "text": "Parfait, merci! Je vais pouvoir sortir."},
+       {"side": "ai", "text": "Je t'écris dès qu'il a fini. Bonne journée!"},
+       {"side": "client", "text": "Super, merci!"}
+     ]},
+    {"type": "card", "kicker": "Pendant ce temps", "intro": "le proprio voit ça :", "title": "Tempête en cours", "tag": "Tout sous contrôle",
+     "rows": [["Messages reçus", "31"], ["Réponses", "31 envoyées"], ["Routes actives", "3 chauffeurs"], ["Entrées faites", "48 sur 120"], ["Urgences", "2 · priorisées"]],
+     "confirm": ["Avis « Entrée faite » envoyés", "Chaque client reçoit un texto"]},
+    {"type": "statement", "kicker": "6 h 34", "lines": ["L'avis part", "tout seul."], "accent_line": 1,
+     "bubble": {"label": "Avis automatique", "text": "Salut Louise! Ton entrée est déneigée. Bonne route!"},
+     "after": "Personne n'a eu à décrocher."},
+    {"type": "cta", "lines": ["Aucun client dans le noir.", "Même en pleine tempête."], "keyword": "AUDIT",
+     "sub": "et on t'envoie 3 tâches que ton entreprise peut automatiser.", "free": "Gratuit."}
+  ],
+  "caption": "Première tempête en Gaspésie : les clients veulent savoir quand tu passes. Un agent IA répond à chacun, avec l'heure prévue, et les avise quand c'est fait.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Déneigement #AgentIA #Automatisation #Gaspésie"
+}

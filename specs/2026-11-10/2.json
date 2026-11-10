@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-10-2",
+  "music": 2,
+  "meta": {"hook": "Tes soirées passent dans la paperasse?", "format": "3-taches", "industry": "Électriciens", "region": "Côte-Nord"},
+  "scenes": [
+    {"type": "hook", "kicker": "Électricité · Côte-Nord", "lines": ["Tes soirées", "passent dans", "la paperasse?"], "accent_line": 2,
+     "sub": "Soumissions, horaires, factures… après la journée.", "pill": "3 tâches à confier"},
+    {"type": "list", "dark": false, "title": "3 tâches à confier à un agent IA cette semaine", "items": [
+      ["Soumissions de base", "L'agent pose les questions et prépare le brouillon."],
+      ["Confirmation des visites", "Le client confirme par texto la veille."],
+      ["Factures et relances", "Envoyées à la fin du travail, relancées seules."]]},
+    {"type": "statement", "kicker": "Pendant ce temps", "lines": ["Toi, tu finis", "ta journée", "à 17 h."], "accent_line": 2,
+     "bubble": {"label": "Confirmation automatique", "text": "Bonjour Sylvie! Notre électricien passe demain à 9 h pour ton panneau. Ça te va toujours?"},
+     "after": "Pas à 23 h devant l'ordi."},
+    {"type": "cta", "lines": ["Moins de paperasse.", "Plus de soirées."], "keyword": "AUDIT",
+     "sub": "et on t'envoie 3 tâches que ton entreprise peut automatiser.", "free": "Gratuit."}
+  ],
+  "caption": "Soumissions, confirmations, factures : un agent IA peut s'occuper de l'administratif pour que ton entreprise d'électricité de la Côte-Nord finisse ses journées à une heure normale.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Électricien #AgentIA #Automatisation #CôteNord"
+}

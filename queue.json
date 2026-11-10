@@ -1,32 +1,6 @@
 {
   "items": [
     {
-      "id": "2026-11-06-2",
-      "file": "videos/2026-11-06-2.mp4",
-      "post_at": "2026-11-06T12:30:00-05:00",
-      "caption": "Une soumission envoyée, puis… rien. Pas parce que le client a dit non — parce que personne n'a relancé. Un agent IA fait les relances pour toi, au bon moment.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Électricien #AgentIA #Automatisation #Montérégie",
-      "hook": "Combien te coûte une soumission oubliée?",
-      "format": "cout-cache",
-      "industry": "Électriciens",
-      "region": "Montérégie",
-      "duration": 26.6,
-      "video_url": "https://cdn.jsdelivr.net/gh/imanehar/caltech-reels@7c66e29aeeb5c22d66bb7980843ff01d3f01dbb9/videos/2026-11-06-2.mp4",
-      "raw_url": "https://raw.githubusercontent.com/imanehar/caltech-reels/7c66e29aeeb5c22d66bb7980843ff01d3f01dbb9/videos/2026-11-06-2.mp4"
-    },
-    {
-      "id": "2026-11-06-3",
-      "file": "videos/2026-11-06-3.mp4",
-      "post_at": "2026-11-06T18:00:00-05:00",
-      "caption": "Renouvellements, routes, factures : la saison de déneigement est une course. Un agent IA s'occupe de l'administratif pour que ton équipe s'occupe de la neige.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Déneigement #AgentIA #Automatisation #Québec",
-      "hook": "La saison du déneigement, avant et après un agent IA",
-      "format": "avant-apres",
-      "industry": "Paysagement / déneigement",
-      "region": "Capitale-Nationale",
-      "duration": 22.3,
-      "video_url": "https://cdn.jsdelivr.net/gh/imanehar/caltech-reels@7c66e29aeeb5c22d66bb7980843ff01d3f01dbb9/videos/2026-11-06-3.mp4",
-      "raw_url": "https://raw.githubusercontent.com/imanehar/caltech-reels/7c66e29aeeb5c22d66bb7980843ff01d3f01dbb9/videos/2026-11-06-3.mp4"
-    },
-    {
       "id": "2026-11-07-1",
       "file": "videos/2026-11-07-1.mp4",
       "post_at": "2026-11-07T08:00:00-05:00",
@@ -142,9 +116,48 @@
       "duration": 26.8,
       "video_url": "https://cdn.jsdelivr.net/gh/imanehar/caltech-reels@67ae65267941522c75ba324cc18466a367746fb2/videos/2026-11-09-3.mp4",
       "raw_url": "https://raw.githubusercontent.com/imanehar/caltech-reels/67ae65267941522c75ba324cc18466a367746fb2/videos/2026-11-09-3.mp4"
+    },
+    {
+      "id": "2026-11-10-1",
+      "file": "videos/2026-11-10-1.mp4",
+      "post_at": "2026-11-10T08:00:00-05:00",
+      "caption": "En plein hiver, chaque appel manqué, c'est un client qui appelle quelqu'un d'autre. Un agent IA répond, trie les urgences et envoie la facture pendant que ton équipe de l'Abitibi-Témiscamingue est sur le terrain.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Plomberie #Chauffage #AgentIA #AbitibiTémiscamingue",
+      "hook": "-30 à Rouyn. La fournaise lâche.",
+      "format": "avant-apres",
+      "industry": "Plomberie / CVC",
+      "region": "Abitibi-Témiscamingue",
+      "duration": 22.3,
+      "video_url": "https://cdn.jsdelivr.net/gh/imanehar/caltech-reels@a889a611d576bba820b3e10b176c9b047ceec333/videos/2026-11-10-1.mp4",
+      "raw_url": "https://raw.githubusercontent.com/imanehar/caltech-reels/a889a611d576bba820b3e10b176c9b047ceec333/videos/2026-11-10-1.mp4"
+    },
+    {
+      "id": "2026-11-10-2",
+      "file": "videos/2026-11-10-2.mp4",
+      "post_at": "2026-11-10T12:30:00-05:00",
+      "caption": "Soumissions, confirmations, factures : un agent IA peut s'occuper de l'administratif pour que ton entreprise d'électricité de la Côte-Nord finisse ses journées à une heure normale.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Électricien #AgentIA #Automatisation #CôteNord",
+      "hook": "Tes soirées passent dans la paperasse?",
+      "format": "3-taches",
+      "industry": "Électriciens",
+      "region": "Côte-Nord",
+      "duration": 22.8,
+      "video_url": "https://cdn.jsdelivr.net/gh/imanehar/caltech-reels@a889a611d576bba820b3e10b176c9b047ceec333/videos/2026-11-10-2.mp4",
+      "raw_url": "https://raw.githubusercontent.com/imanehar/caltech-reels/a889a611d576bba820b3e10b176c9b047ceec333/videos/2026-11-10-2.mp4"
+    },
+    {
+      "id": "2026-11-10-3",
+      "file": "videos/2026-11-10-3.mp4",
+      "post_at": "2026-11-10T18:00:00-05:00",
+      "caption": "Première tempête en Gaspésie : les clients veulent savoir quand tu passes. Un agent IA répond à chacun, avec l'heure prévue, et les avise quand c'est fait.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Déneigement #AgentIA #Automatisation #Gaspésie",
+      "hook": "5 h 40. Première tempête. Le téléphone sonne déjà.",
+      "format": "regarde-comment",
+      "industry": "Paysagement / déneigement",
+      "region": "Gaspésie–Îles-de-la-Madeleine",
+      "duration": 37.1,
+      "video_url": "https://cdn.jsdelivr.net/gh/imanehar/caltech-reels@a889a611d576bba820b3e10b176c9b047ceec333/videos/2026-11-10-3.mp4",
+      "raw_url": "https://raw.githubusercontent.com/imanehar/caltech-reels/a889a611d576bba820b3e10b176c9b047ceec333/videos/2026-11-10-3.mp4"
     }
   ],
-  "updated_at": "2026-11-09T05:40:07-05:00",
+  "updated_at": "2026-11-10T05:39:55-05:00",
   "posted": [
     "2026-11-06-1"
   ]

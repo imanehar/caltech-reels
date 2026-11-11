@@ -1,5 +1,5 @@
 {
- "idx": 16,
+ "idx": 19,
  "recent_hooks": [
   "Il est 21 h 14. Un client veut une soumission.",
   "Combien d'heures par semaine à rappeler tes clients?",
@@ -16,6 +16,9 @@
   "Combien te coûte un appel manqué sur le chantier?",
   "-30 à Rouyn. La fournaise lâche.",
   "Tes soirées passent dans la paperasse?",
-  "5 h 40. Première tempête. Le téléphone sonne déjà."
+  "5 h 40. Première tempête. Le téléphone sonne déjà.",
+  "Combien d'heures par semaine à saisir des factures?",
+  "Combien te coûte un acheteur pas rappelé?",
+  "8 h 02. Déjà 12 appels en attente."
  ]
 }

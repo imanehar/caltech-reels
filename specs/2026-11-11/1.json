@@ -1,0 +1,21 @@
+{
+  "id": "2026-11-11-1",
+  "music": 0,
+  "meta": {"hook": "Combien d'heures par semaine à saisir des factures?", "format": "sauve-du-temps", "industry": "Cabinets comptables", "region": "Nord-du-Québec"},
+  "scenes": [
+    {"type": "hook", "kicker": "Comptabilité · Nord-du-Québec", "lines": ["Combien d'heures", "à saisir des", "factures?"], "accent_line": 2,
+     "sub": "Chaque semaine. Une par une. À la main.", "pill": "Le temps que tu perds"},
+    {"type": "statement", "kicker": "La façon manuelle", "lines": ["Ouvrir le courriel.", "Taper le montant.", "Classer le PDF."], "accent_line": 1,
+     "bubble": {"label": "Courriel client", "text": "Allô! Voici mes factures du mois, encore 40 pièces jointes. Merci!"},
+     "after": "Et recommencer pour chaque client."},
+    {"type": "card", "kicker": "Avec un agent IA", "intro": "le cabinet reçoit ça :", "title": "Factures traitées", "tag": "Prêt à valider",
+     "rows": [["Client", "Transport Nordik"], ["Factures lues", "40 sur 40"], ["Fournisseurs", "Reconnus"], ["Taxes", "TPS / TVQ séparées"], ["Classement", "Dossier du mois"], ["À vérifier", "2 factures floues"]],
+     "confirm": ["Écritures prêtes à approuver", "Le comptable valide en un clic"]},
+    {"type": "statement", "kicker": "Résultat", "lines": ["Des heures", "redonnées", "chaque semaine."], "accent_line": 2,
+     "bubble": {"label": "Par exemple", "text": "Jusqu'à 1 journée par semaine pour un petit cabinet qui saisit tout à la main."},
+     "after": "Du temps pour conseiller tes clients."},
+    {"type": "cta", "lines": ["Moins de saisie.", "Plus de conseils."], "keyword": "AUDIT",
+     "sub": "et on t'envoie 3 tâches que ton entreprise peut automatiser.", "free": "Gratuit."}
+  ],
+  "caption": "Ton cabinet passe encore ses semaines à saisir des factures à la main? Un agent IA lit les pièces jointes, sépare les taxes et prépare les écritures. Ton équipe du Nord-du-Québec n'a plus qu'à valider.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Comptabilité #AgentIA #Automatisation #NordDuQuébec"
+}

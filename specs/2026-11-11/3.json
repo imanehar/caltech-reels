@@ -1,0 +1,20 @@
+{
+  "id": "2026-11-11-3",
+  "music": 2,
+  "meta": {"hook": "8 h 02. Déjà 12 appels en attente.", "format": "avant-apres", "industry": "Cliniques", "region": "Laval"},
+  "scenes": [
+    {"type": "hook", "kicker": "Clinique · Laval", "lines": ["8 h 02.", "Déjà 12 appels", "en attente."], "accent_line": 0,
+     "sub": "Ta réception n'a même pas fini son café.", "pill": "Avant / après"},
+    {"type": "list", "dark": false, "title": "Avant", "items": [
+      ["Ligne occupée le matin", "Les patients raccrochent et rappellent."],
+      ["Rappels faits à la main", "Une heure par jour au téléphone."],
+      ["Plages vides", "Les annulations de dernière minute restent vides."]]},
+    {"type": "list", "dark": true, "title": "Après", "items": [
+      ["Rendez-vous en ligne 24/7", "L'agent propose les plages libres."],
+      ["Rappels par texto", "Le patient confirme ou déplace seul."],
+      ["Liste d'attente active", "Une annulation? La place est offerte."]]},
+    {"type": "cta", "lines": ["Une réception plus calme.", "Dès 8 h."], "keyword": "AUDIT",
+     "sub": "et on t'envoie 3 tâches que ton entreprise peut automatiser.", "free": "Gratuit."}
+  ],
+  "caption": "Le matin, la ligne de ta clinique de Laval ne dérougit pas? Un agent IA prend les rendez-vous, envoie les rappels et remplit les annulations. Ta réception respire.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Clinique #AgentIA #Automatisation #Laval"
+}

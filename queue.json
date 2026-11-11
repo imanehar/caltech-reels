@@ -1,45 +1,6 @@
 {
   "items": [
     {
-      "id": "2026-11-07-1",
-      "file": "videos/2026-11-07-1.mp4",
-      "post_at": "2026-11-07T08:00:00-05:00",
-      "caption": "Relancer les clients pour leurs papiers, trier les reçus, fixer les rencontres… Un agent IA s'en occupe pour que ton cabinet des Laurentides se concentre sur la comptabilité.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Comptabilité #AgentIA #Automatisation #Laurentides",
-      "hook": "Ton cabinet court après les documents?",
-      "format": "3-taches",
-      "industry": "Cabinets comptables",
-      "region": "Laurentides",
-      "duration": 22.8,
-      "video_url": "https://cdn.jsdelivr.net/gh/imanehar/caltech-reels@a50925e5d3e97f4cda16263d2f09a1fe8ad4dbec/videos/2026-11-07-1.mp4",
-      "raw_url": "https://raw.githubusercontent.com/imanehar/caltech-reels/a50925e5d3e97f4cda16263d2f09a1fe8ad4dbec/videos/2026-11-07-1.mp4"
-    },
-    {
-      "id": "2026-11-07-2",
-      "file": "videos/2026-11-07-2.mp4",
-      "post_at": "2026-11-07T12:30:00-05:00",
-      "caption": "Une demande de visite un samedi matin dans Lanaudière, répondue en moins d'une minute, qualifiée et mise au calendrier — pendant que tu fais ta visite libre.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Immobilier #AgentIA #Automatisation #Lanaudière",
-      "hook": "Samedi, 7 h 52. Une acheteuse veut visiter.",
-      "format": "regarde-comment",
-      "industry": "Courtiers immobiliers",
-      "region": "Lanaudière",
-      "duration": 37.3,
-      "video_url": "https://cdn.jsdelivr.net/gh/imanehar/caltech-reels@a50925e5d3e97f4cda16263d2f09a1fe8ad4dbec/videos/2026-11-07-2.mp4",
-      "raw_url": "https://raw.githubusercontent.com/imanehar/caltech-reels/a50925e5d3e97f4cda16263d2f09a1fe8ad4dbec/videos/2026-11-07-2.mp4"
-    },
-    {
-      "id": "2026-11-07-3",
-      "file": "videos/2026-11-07-3.mp4",
-      "post_at": "2026-11-07T18:00:00-05:00",
-      "caption": "Rappels, confirmations, places libérées offertes à la liste d'attente… Un agent IA s'occupe de l'horaire pour que ta réception en Estrie puisse s'occuper des patients.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Clinique #AgentIA #Automatisation #Estrie",
-      "hook": "Combien d'heures à confirmer des rendez-vous?",
-      "format": "sauve-du-temps",
-      "industry": "Cliniques",
-      "region": "Estrie",
-      "duration": 25.6,
-      "video_url": "https://cdn.jsdelivr.net/gh/imanehar/caltech-reels@a50925e5d3e97f4cda16263d2f09a1fe8ad4dbec/videos/2026-11-07-3.mp4",
-      "raw_url": "https://raw.githubusercontent.com/imanehar/caltech-reels/a50925e5d3e97f4cda16263d2f09a1fe8ad4dbec/videos/2026-11-07-3.mp4"
-    },
-    {
       "id": "2026-11-08-1",
       "file": "videos/2026-11-08-1.mp4",
       "post_at": "2026-11-08T08:00:00-05:00",
@@ -155,9 +116,48 @@
       "duration": 37.1,
       "video_url": "https://cdn.jsdelivr.net/gh/imanehar/caltech-reels@a889a611d576bba820b3e10b176c9b047ceec333/videos/2026-11-10-3.mp4",
       "raw_url": "https://raw.githubusercontent.com/imanehar/caltech-reels/a889a611d576bba820b3e10b176c9b047ceec333/videos/2026-11-10-3.mp4"
+    },
+    {
+      "id": "2026-11-11-1",
+      "file": "videos/2026-11-11-1.mp4",
+      "post_at": "2026-11-11T08:00:00-05:00",
+      "caption": "Ton cabinet passe encore ses semaines à saisir des factures à la main? Un agent IA lit les pièces jointes, sépare les taxes et prépare les écritures. Ton équipe du Nord-du-Québec n'a plus qu'à valider.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Comptabilité #AgentIA #Automatisation #NordDuQuébec",
+      "hook": "Combien d'heures par semaine à saisir des factures?",
+      "format": "sauve-du-temps",
+      "industry": "Cabinets comptables",
+      "region": "Nord-du-Québec",
+      "duration": 28.7,
+      "video_url": "https://cdn.jsdelivr.net/gh/imanehar/caltech-reels@0594294d7d49d8c2c1274c8f9783620073e76338/videos/2026-11-11-1.mp4",
+      "raw_url": "https://raw.githubusercontent.com/imanehar/caltech-reels/0594294d7d49d8c2c1274c8f9783620073e76338/videos/2026-11-11-1.mp4"
+    },
+    {
+      "id": "2026-11-11-2",
+      "file": "videos/2026-11-11-2.mp4",
+      "post_at": "2026-11-11T12:30:00-05:00",
+      "caption": "À Montréal, un acheteur qui attend 3 heures écrit au courtier suivant. Un agent IA répond en secondes, qualifie et réserve la visite pendant que tu es sur le terrain.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Immobilier #CourtierImmobilier #AgentIA #Montréal",
+      "hook": "Combien te coûte un acheteur pas rappelé?",
+      "format": "cout-cache",
+      "industry": "Courtiers immobiliers",
+      "region": "Montréal",
+      "duration": 29.2,
+      "video_url": "https://cdn.jsdelivr.net/gh/imanehar/caltech-reels@0594294d7d49d8c2c1274c8f9783620073e76338/videos/2026-11-11-2.mp4",
+      "raw_url": "https://raw.githubusercontent.com/imanehar/caltech-reels/0594294d7d49d8c2c1274c8f9783620073e76338/videos/2026-11-11-2.mp4"
+    },
+    {
+      "id": "2026-11-11-3",
+      "file": "videos/2026-11-11-3.mp4",
+      "post_at": "2026-11-11T18:00:00-05:00",
+      "caption": "Le matin, la ligne de ta clinique de Laval ne dérougit pas? Un agent IA prend les rendez-vous, envoie les rappels et remplit les annulations. Ta réception respire.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Clinique #AgentIA #Automatisation #Laval",
+      "hook": "8 h 02. Déjà 12 appels en attente.",
+      "format": "avant-apres",
+      "industry": "Cliniques",
+      "region": "Laval",
+      "duration": 22.3,
+      "video_url": "https://cdn.jsdelivr.net/gh/imanehar/caltech-reels@0594294d7d49d8c2c1274c8f9783620073e76338/videos/2026-11-11-3.mp4",
+      "raw_url": "https://raw.githubusercontent.com/imanehar/caltech-reels/0594294d7d49d8c2c1274c8f9783620073e76338/videos/2026-11-11-3.mp4"
     }
   ],
-  "updated_at": "2026-11-10T05:39:55-05:00",
+  "updated_at": "2026-11-11T05:39:42-05:00",
   "posted": [
     "2026-11-06-1"
   ]

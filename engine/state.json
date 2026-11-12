@@ -1,5 +1,5 @@
 {
- "idx": 19,
+ "idx": 22,
  "recent_hooks": [
   "Il est 21 h 14. Un client veut une soumission.",
   "Combien d'heures par semaine à rappeler tes clients?",
@@ -19,6 +19,9 @@
   "5 h 40. Première tempête. Le téléphone sonne déjà.",
   "Combien d'heures par semaine à saisir des factures?",
   "Combien te coûte un acheteur pas rappelé?",
-  "8 h 02. Déjà 12 appels en attente."
+  "8 h 02. Déjà 12 appels en attente.",
+  "Ton resto ferme. Ton téléphone, lui, sonne encore.",
+  "16 h 55. Un client veut un camion demain.",
+  "Combien d'heures sur les bons de commande?"
  ]
 }

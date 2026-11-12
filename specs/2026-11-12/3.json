@@ -1,0 +1,21 @@
+{
+  "id": "2026-11-12-3",
+  "music": 2,
+  "meta": {"hook": "Combien d'heures sur les bons de commande?", "format": "sauve-du-temps", "industry": "Manufacturiers", "region": "Laurentides"},
+  "scenes": [
+    {"type": "hook", "kicker": "Manufacturier · Laurentides", "lines": ["Combien d'heures", "sur les bons", "de commande?"], "accent_line": 2,
+     "sub": "Reçus par courriel. Retapés à la main.", "pill": "Le temps que tu perds"},
+    {"type": "statement", "kicker": "La façon manuelle", "lines": ["Ouvrir le PDF.", "Retaper les lignes.", "Vérifier les prix."], "accent_line": 1,
+     "bubble": {"label": "Courriel client", "text": "Bonjour! Voici notre commande de la semaine, 34 lignes. Livraison possible mardi?"},
+     "after": "Un code mal tapé, et l'usine suit."},
+    {"type": "card", "kicker": "Avec un agent IA", "intro": "le bureau reçoit ça :", "title": "Commande saisie", "tag": "Prêt à valider",
+     "rows": [["Client", "Boiseries Nordet"], ["Lignes lues", "34 sur 34"], ["Codes produits", "Vérifiés"], ["Prix", "Selon la liste client"], ["Livraison", "Mardi demandé"], ["À vérifier", "1 code inconnu"]],
+     "confirm": ["Commande prête dans le système", "Le bureau approuve en un clic"]},
+    {"type": "statement", "kicker": "Résultat", "lines": ["Ton bureau", "respire enfin."], "accent_line": 1,
+     "bubble": {"label": "Par exemple", "text": "Jusqu'à quelques heures par semaine pour une PME qui saisit ses commandes à la main."},
+     "after": "Et moins d'erreurs jusqu'à l'usine."},
+    {"type": "cta", "lines": ["Moins de saisie.", "Plus de production."], "keyword": "AUDIT",
+     "sub": "et on t'envoie 3 tâches que ton entreprise peut automatiser.", "free": "Gratuit."}
+  ],
+  "caption": "Tes bons de commande arrivent par courriel et quelqu'un les retape ligne par ligne? Un agent IA lit la commande, vérifie les codes et les prix, et la prépare dans ton système. Ton équipe des Laurentides n'a plus qu'à approuver.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Manufacturier #AgentIA #Automatisation #Laurentides"
+}

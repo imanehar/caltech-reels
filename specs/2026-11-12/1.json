@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-12-1",
+  "music": 1,
+  "meta": {"hook": "Ton resto ferme. Ton téléphone, lui, sonne encore.", "format": "3-taches", "industry": "Restaurants / traiteurs", "region": "Montérégie"},
+  "scenes": [
+    {"type": "hook", "kicker": "Restauration · Montérégie", "lines": ["Ton resto ferme.", "Ton téléphone,", "lui, sonne encore."], "accent_line": 2,
+     "sub": "Réservations, questions, commandes… en plein rush.", "pill": "3 tâches à confier"},
+    {"type": "list", "dark": false, "title": "3 tâches à confier à un agent IA cette semaine", "items": [
+      ["Réservations par texto", "L'agent prend la table et confirme la veille."],
+      ["Questions sur le menu", "Heures, allergènes, stationnement : réponse en secondes."],
+      ["Demandes de traiteur", "Nombre, date, budget : tout est noté pour toi."]]},
+    {"type": "statement", "kicker": "Pendant ce temps", "lines": ["Ton équipe reste", "en cuisine."], "accent_line": 1,
+     "bubble": {"label": "Réservation automatique", "text": "Bonjour Julie! Ta table pour 6 vendredi à 19 h est confirmée. On a noté l'anniversaire!"},
+     "after": "Pas au téléphone en plein service."},
+    {"type": "cta", "lines": ["Moins d'appels.", "Plus de service."], "keyword": "AUDIT",
+     "sub": "et on t'envoie 3 tâches que ton entreprise peut automatiser.", "free": "Gratuit."}
+  ],
+  "caption": "Réservations, questions sur le menu, demandes de traiteur : un agent IA peut répondre pendant que ton équipe de la Montérégie reste concentrée sur le service.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Restauration #AgentIA #Automatisation #Montérégie"
+}

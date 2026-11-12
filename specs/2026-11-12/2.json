@@ -1,0 +1,26 @@
+{
+  "id": "2026-11-12-2",
+  "music": 0,
+  "meta": {"hook": "16 h 55. Un client veut un camion demain.", "format": "regarde-comment", "industry": "Transport / logistique", "region": "Capitale-Nationale"},
+  "scenes": [
+    {"type": "hook", "kicker": "Transport · Capitale-Nationale", "lines": ["16 h 55.", "Un client veut", "un camion demain."], "accent_line": 0,
+     "sub": "Ton répartiteur part dans 5 minutes.", "pill": "Regarde ce qui se passe"},
+    {"type": "notif", "time": "16:55", "date": "jeudi 12 novembre", "label": "Nouvelle demande · courriel", "title": "Transport de 8 palettes",
+     "lines": ["Sophie G. · Québec", "Vers Chicoutimi, demain"], "caption": "D'habitude, ça attend au lendemain."},
+    {"type": "chat", "business": "Transport Lavoie", "initials": "TL", "badge": "Réponse en 40 secondes", "messages": [
+      {"side": "ai", "text": "Bonjour Sophie! Ici l'assistant de Transport Lavoie. On a bien reçu ta demande."},
+      {"side": "ai", "text": "Les palettes pèsent combien environ? As-tu un quai, ou il faut un hayon?"},
+      {"side": "client", "text": "Environ 600 kg chacune. Pas de quai, donc un hayon."},
+      {"side": "ai", "text": "Parfait. On a un camion avec hayon de libre. Ramassage demain à 8 h?"},
+      {"side": "client", "text": "Oui, parfait!"}]},
+    {"type": "card", "kicker": "Pendant ce temps", "intro": "le répartiteur reçoit ça :", "title": "Transport", "tag": "Prêt à confirmer",
+     "rows": [["Client", "Sophie G."], ["Trajet", "Québec – Chicoutimi"], ["Charge", "8 palettes · ~4 800 kg"], ["Équipement", "Camion avec hayon"], ["Ramassage", "Vendredi 8 h"], ["Tarif", "Selon ta grille"]],
+     "confirm": ["Ramassage ajouté à l'horaire", "Vendredi 8:00 · Camion 3 · Québec"]},
+    {"type": "statement", "kicker": "Le lendemain", "lines": ["Le client suit", "son envoi", "tout seul."], "accent_line": 2,
+     "bubble": {"label": "Suivi automatique", "text": "Bonjour Sophie! Tes 8 palettes sont en route. Arrivée prévue à Chicoutimi vers 14 h."},
+     "after": "Personne n'a eu à appeler."},
+    {"type": "cta", "lines": ["Aucune demande perdue.", "Même à 16 h 55."], "keyword": "AUDIT",
+     "sub": "et on t'envoie 3 tâches que ton entreprise peut automatiser.", "free": "Gratuit."}
+  ],
+  "caption": "Une demande de transport à 16 h 55, qualifiée en 40 secondes et ajoutée à l'horaire — sans retenir ton répartiteur au bureau. Exemple fictif d'une PME de la Capitale-Nationale.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Transport #AgentIA #Automatisation #Québec"
+}

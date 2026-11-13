@@ -1,0 +1,21 @@
+{
+  "id": "2026-11-13-1",
+  "music": 0,
+  "meta": {"hook": "Combien te coûte un panier abandonné?", "format": "cout-cache", "industry": "Commerce de détail", "region": "Lanaudière"},
+  "scenes": [
+    {"type": "hook", "kicker": "Commerce de détail · Lanaudière", "lines": ["Combien te coûte", "un panier", "abandonné?"], "accent_line": 2,
+     "sub": "Elle voulait juste savoir si sa taille était en stock.", "pill": "Le coût caché"},
+    {"type": "statement", "kicker": "Fais le calcul", "lines": ["5 paniers perdus", "par semaine,", "à 80 $ chacun."], "accent_line": 0,
+     "bubble": {"label": "Par exemple", "text": "5 × 80 $ × 52 semaines, ça peut faire plus de 20 000 $ de ventes par année."},
+     "after": "Pour des questions restées sans réponse."},
+    {"type": "chat", "business": "Boutique Les Cèdres", "initials": "BC", "badge": "Réponse en 15 secondes", "messages": [
+      {"side": "client", "text": "Bonjour, les bottes d'hiver brunes, vous les avez en 8?"},
+      {"side": "ai", "text": "Bonjour! Ici l'assistant de la Boutique Les Cèdres. Oui, il reste 2 paires en 8."},
+      {"side": "ai", "text": "Veux-tu que je t'en réserve une pour ramasser en magasin à Joliette?"},
+      {"side": "client", "text": "Oui! Je passe demain midi."},
+      {"side": "ai", "text": "C'est réservé à ton nom. À demain!"}]},
+    {"type": "cta", "lines": ["Aucune vente oubliée.", "Même après la fermeture."], "keyword": "AUDIT",
+     "sub": "et on t'envoie 3 tâches que ton entreprise peut automatiser.", "free": "Gratuit."}
+  ],
+  "caption": "Une cliente pose une question à 21 h et n'a pas de réponse? Elle achète ailleurs. Un agent IA répond en secondes, vérifie le stock et réserve l'article. Exemple fictif d'une boutique de Lanaudière.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #CommerceDeDétail #AgentIA #Automatisation #Lanaudière"
+}

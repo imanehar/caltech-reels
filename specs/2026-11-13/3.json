@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-13-3",
+  "music": 2,
+  "meta": {"hook": "Tes soumissions du printemps se jouent déjà.", "format": "3-taches", "industry": "Rénovation / construction", "region": "Mauricie"},
+  "scenes": [
+    {"type": "hook", "kicker": "Rénovation · Mauricie", "lines": ["Tes soumissions", "du printemps", "se jouent déjà."], "accent_line": 2,
+     "sub": "Tes clients planifient leurs rénos dès novembre.", "pill": "3 tâches à confier"},
+    {"type": "list", "dark": false, "title": "3 tâches à confier à un agent IA cette semaine", "items": [
+      ["Répondre aux demandes", "Photos, budget, échéancier : tout est collecté."],
+      ["Relancer les soumissions", "Un suivi poli 3 jours plus tard, tout seul."],
+      ["Planifier les visites", "Le client choisit une plage dans ton calendrier."]]},
+    {"type": "statement", "kicker": "Pendant ce temps", "lines": ["Toi, tu finis", "tes chantiers."], "accent_line": 1,
+     "bubble": {"label": "Relance automatique", "text": "Bonjour Nathalie! Ta soumission pour la cuisine est prête. On s'en parle cette semaine?"},
+     "after": "Et ton printemps se remplit."},
+    {"type": "cta", "lines": ["Un printemps plein.", "Dès novembre."], "keyword": "AUDIT",
+     "sub": "et on t'envoie 3 tâches que ton entreprise peut automatiser.", "free": "Gratuit."}
+  ],
+  "caption": "En Mauricie, les clients magasinent leurs rénos du printemps maintenant. Un agent IA répond aux demandes, relance tes soumissions et planifie les visites pendant que tu finis tes chantiers.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Rénovation #AgentIA #Automatisation #Mauricie"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "2026-11-13-2",
+  "music": 1,
+  "meta": {"hook": "2 h du matin. Un dégât d'eau au 3e étage.", "format": "avant-apres", "industry": "Gestion immobilière", "region": "Estrie"},
+  "scenes": [
+    {"type": "hook", "kicker": "Gestion immobilière · Estrie", "lines": ["2 h du matin.", "Un dégât d'eau", "au 3e étage."], "accent_line": 0,
+     "sub": "Et ton cell est sur silencieux.", "pill": "Avant / après"},
+    {"type": "list", "dark": false, "title": "Avant", "items": [
+      ["Appels à toute heure", "Les locataires appellent ton cell, jour et nuit."],
+      ["Demandes éparpillées", "Textos, courriels, messages vocaux."],
+      ["Suivis oubliés", "Le locataire rappelle trois fois."]]},
+    {"type": "list", "dark": true, "title": "Après", "items": [
+      ["Demandes centralisées", "L'agent note l'unité, l'urgence et les photos."],
+      ["Urgences au bon fournisseur", "Le plombier de garde est avisé tout de suite."],
+      ["Locataires tenus au courant", "Suivi par texto jusqu'à la fin des travaux."]]},
+    {"type": "cta", "lines": ["Moins d'appels la nuit.", "Plus de contrôle."], "keyword": "AUDIT",
+     "sub": "et on t'envoie 3 tâches que ton entreprise peut automatiser.", "free": "Gratuit."}
+  ],
+  "caption": "Tu gères des immeubles en Estrie et ton cell sonne à toute heure? Un agent IA reçoit les demandes des locataires, trie les urgences et tient tout le monde au courant.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #GestionImmobilière #AgentIA #Automatisation #Estrie"
+}

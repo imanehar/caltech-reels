@@ -1,0 +1,27 @@
+{
+  "id": "2026-11-14-1",
+  "music": 2,
+  "meta": {"hook": "Samedi, 6 h 30. Plus d'eau chaude à Gatineau.", "format": "regarde-comment", "industry": "Plomberie / CVC", "region": "Outaouais"},
+  "scenes": [
+    {"type": "hook", "kicker": "Plomberie · Outaouais", "lines": ["Samedi, 6 h 30.", "Plus d'eau chaude", "à Gatineau."], "accent_line": 0,
+     "sub": "Et ton bureau ouvre lundi.", "pill": "Regarde ce qui se passe"},
+    {"type": "notif", "time": "06:30", "date": "samedi 14 novembre", "label": "Nouvelle demande · texto", "title": "Chauffe-eau en panne",
+     "lines": ["Sophie L. · Gatineau", "Fuite sous le réservoir"], "caption": "D'habitude, elle appelle le suivant sur Google."},
+    {"type": "chat", "business": "Plomberie Outaouais Pro", "initials": "PO", "badge": "Réponse en 28 secondes", "messages": [
+      {"side": "ai", "text": "Bonjour Sophie! Ici l'assistant de Plomberie Outaouais Pro. Est-ce que l'eau coule encore?"},
+      {"side": "client", "text": "Un peu, oui. J'ai fermé la valve."},
+      {"side": "ai", "text": "Bon réflexe! Peux-tu m'envoyer une photo du chauffe-eau et de l'étiquette?"},
+      {"side": "client", "photos": 2},
+      {"side": "ai", "text": "Merci. Le technicien de garde peut passer à 9 h ce matin. Ça te va?"},
+      {"side": "client", "text": "Oui, merci beaucoup!"}]},
+    {"type": "card", "kicker": "Pendant ce temps", "intro": "le technicien de garde reçoit ça :", "title": "Appel de service", "tag": "Urgent",
+     "rows": [["Problème", "Chauffe-eau qui fuit"], ["Ville", "Gatineau"], ["Valve", "Fermée par la cliente"], ["Photos", "2 reçues"], ["Arrivée", "Samedi 9 h"]],
+     "confirm": ["Visite ajoutée au calendrier", "Samedi 09:00 · Sophie L. · Gatineau"]},
+    {"type": "statement", "kicker": "Le lendemain", "lines": ["Le suivi part", "tout seul."], "accent_line": 1,
+     "bubble": {"label": "Suivi automatique", "text": "Salut Sophie! Tout fonctionne bien avec le nouveau chauffe-eau? Ta facture est dans tes courriels."},
+     "after": "Et ton week-end reste un week-end."},
+    {"type": "cta", "lines": ["Aucun appel perdu.", "Même le samedi."], "keyword": "AUDIT",
+     "sub": "et on t'envoie 3 tâches que ton entreprise peut automatiser.", "free": "Gratuit."}
+  ],
+  "caption": "Samedi matin en Outaouais, un chauffe-eau lâche. L'agent IA répond en quelques secondes, collecte les photos et réserve le technicien de garde. Personne n'a eu à décrocher.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Plomberie #AgentIA #Automatisation #Outaouais"
+}

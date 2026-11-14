@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-14-2",
+  "music": 0,
+  "meta": {"hook": "Combien d'heures sur les feuilles de temps?", "format": "sauve-du-temps", "industry": "Électriciens", "region": "Chaudière-Appalaches"},
+  "scenes": [
+    {"type": "hook", "kicker": "Électriciens · Chaudière-Appalaches", "lines": ["Combien d'heures", "sur les feuilles", "de temps?"], "accent_line": 1,
+     "sub": "Chaque vendredi, c'est la même histoire.", "pill": "Par semaine"},
+    {"type": "statement", "kicker": "Le vendredi soir", "lines": ["Des papiers sales.", "Des textos flous.", "Des heures à deviner."], "accent_line": 2,
+     "after": "Et tu factures le chantier au pif."},
+    {"type": "card", "kicker": "Avec un agent IA", "intro": "ton équipe texte ses heures :", "title": "Semaine · Équipe B", "tag": "Prêt à facturer",
+     "rows": [["Jérôme", "38 h · 3 chantiers"], ["Karine", "41 h · 2 chantiers"], ["Chantier Lévis", "52 h au total"], ["Matériel", "Ajouté à la facture"], ["Anomalies", "1 à vérifier"]],
+     "confirm": ["Facture brouillon créée", "Chantier Lévis · prête à envoyer"]},
+    {"type": "statement", "kicker": "Par exemple", "lines": ["Jusqu'à 4 h", "sauvées chaque", "semaine."], "accent_line": 0,
+     "after": "Du temps pour soumissionner."},
+    {"type": "cta", "lines": ["Moins de paperasse.", "Plus de chantiers."], "keyword": "AUDIT",
+     "sub": "et on t'envoie 3 tâches que ton entreprise peut automatiser.", "free": "Gratuit."}
+  ],
+  "caption": "Tes électriciens textent leurs heures, l'agent IA compile tout par chantier et prépare la facture. Fini les vendredis soir à déchiffrer des papiers en Chaudière-Appalaches.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Électricien #AgentIA #Automatisation #ChaudièreAppalaches"
+}

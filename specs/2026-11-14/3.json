@@ -1,0 +1,20 @@
+{
+  "id": "2026-11-14-3",
+  "music": 1,
+  "meta": {"hook": "Combien te coûte un client qui paie en retard?", "format": "cout-cache", "industry": "Paysagement / déneigement", "region": "Centre-du-Québec"},
+  "scenes": [
+    {"type": "hook", "kicker": "Déneigement · Centre-du-Québec", "lines": ["Combien te coûte", "un client qui", "paie en retard?"], "accent_line": 2,
+     "sub": "Pendant que toi, tu paies le diesel.", "pill": "Le coût caché"},
+    {"type": "statement", "kicker": "Par exemple", "lines": ["40 contrats", "× 500 $ en retard", "= 20 000 $"], "accent_line": 2,
+     "after": "Ton argent dort. Toi, tu déneiges."},
+    {"type": "chat", "business": "Déneigement Bois-Francs", "initials": "DB", "badge": "Rappel envoyé tout seul", "messages": [
+      {"side": "ai", "text": "Bonjour Luc! Petit rappel : le 2e versement de ton contrat de déneigement est dû vendredi."},
+      {"side": "ai", "text": "Tu peux payer en 30 secondes avec ce lien sécurisé."},
+      {"side": "client", "text": "Ah oui, j'avais oublié. Je le fais ce soir!"},
+      {"side": "client", "text": "C'est payé."},
+      {"side": "ai", "text": "Reçu, merci Luc! Bon hiver, on s'occupe de ton entrée."}]},
+    {"type": "cta", "lines": ["Moins de retards.", "Plus de liquidités."], "keyword": "AUDIT",
+     "sub": "et on t'envoie 3 tâches que ton entreprise peut automatiser.", "free": "Gratuit."}
+  ],
+  "caption": "Au Centre-du-Québec, chaque versement en retard, c'est du diesel que tu avances de ta poche. Un agent IA envoie les rappels poliment, avec un lien de paiement, sans que tu aies à courir après personne.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Déneigement #AgentIA #Automatisation #CentreDuQuébec"
+}

@@ -1,45 +1,6 @@
 {
   "items": [
     {
-      "id": "2026-11-10-1",
-      "file": "videos/2026-11-10-1.mp4",
-      "post_at": "2026-11-10T08:00:00-05:00",
-      "caption": "En plein hiver, chaque appel manqué, c'est un client qui appelle quelqu'un d'autre. Un agent IA répond, trie les urgences et envoie la facture pendant que ton équipe de l'Abitibi-Témiscamingue est sur le terrain.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Plomberie #Chauffage #AgentIA #AbitibiTémiscamingue",
-      "hook": "-30 à Rouyn. La fournaise lâche.",
-      "format": "avant-apres",
-      "industry": "Plomberie / CVC",
-      "region": "Abitibi-Témiscamingue",
-      "duration": 22.3,
-      "video_url": "https://cdn.jsdelivr.net/gh/imanehar/caltech-reels@a889a611d576bba820b3e10b176c9b047ceec333/videos/2026-11-10-1.mp4",
-      "raw_url": "https://raw.githubusercontent.com/imanehar/caltech-reels/a889a611d576bba820b3e10b176c9b047ceec333/videos/2026-11-10-1.mp4"
-    },
-    {
-      "id": "2026-11-10-2",
-      "file": "videos/2026-11-10-2.mp4",
-      "post_at": "2026-11-10T12:30:00-05:00",
-      "caption": "Soumissions, confirmations, factures : un agent IA peut s'occuper de l'administratif pour que ton entreprise d'électricité de la Côte-Nord finisse ses journées à une heure normale.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Électricien #AgentIA #Automatisation #CôteNord",
-      "hook": "Tes soirées passent dans la paperasse?",
-      "format": "3-taches",
-      "industry": "Électriciens",
-      "region": "Côte-Nord",
-      "duration": 22.8,
-      "video_url": "https://cdn.jsdelivr.net/gh/imanehar/caltech-reels@a889a611d576bba820b3e10b176c9b047ceec333/videos/2026-11-10-2.mp4",
-      "raw_url": "https://raw.githubusercontent.com/imanehar/caltech-reels/a889a611d576bba820b3e10b176c9b047ceec333/videos/2026-11-10-2.mp4"
-    },
-    {
-      "id": "2026-11-10-3",
-      "file": "videos/2026-11-10-3.mp4",
-      "post_at": "2026-11-10T18:00:00-05:00",
-      "caption": "Première tempête en Gaspésie : les clients veulent savoir quand tu passes. Un agent IA répond à chacun, avec l'heure prévue, et les avise quand c'est fait.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Déneigement #AgentIA #Automatisation #Gaspésie",
-      "hook": "5 h 40. Première tempête. Le téléphone sonne déjà.",
-      "format": "regarde-comment",
-      "industry": "Paysagement / déneigement",
-      "region": "Gaspésie–Îles-de-la-Madeleine",
-      "duration": 37.1,
-      "video_url": "https://cdn.jsdelivr.net/gh/imanehar/caltech-reels@a889a611d576bba820b3e10b176c9b047ceec333/videos/2026-11-10-3.mp4",
-      "raw_url": "https://raw.githubusercontent.com/imanehar/caltech-reels/a889a611d576bba820b3e10b176c9b047ceec333/videos/2026-11-10-3.mp4"
-    },
-    {
       "id": "2026-11-11-1",
       "file": "videos/2026-11-11-1.mp4",
       "post_at": "2026-11-11T08:00:00-05:00",
@@ -155,9 +116,48 @@
       "duration": 22.1,
       "video_url": "https://cdn.jsdelivr.net/gh/imanehar/caltech-reels@12ca9b77c610b7a67695f8e15c6623c4b0f6b2de/videos/2026-11-13-3.mp4",
       "raw_url": "https://raw.githubusercontent.com/imanehar/caltech-reels/12ca9b77c610b7a67695f8e15c6623c4b0f6b2de/videos/2026-11-13-3.mp4"
+    },
+    {
+      "id": "2026-11-14-1",
+      "file": "videos/2026-11-14-1.mp4",
+      "post_at": "2026-11-14T08:00:00-05:00",
+      "caption": "Samedi matin en Outaouais, un chauffe-eau lâche. L'agent IA répond en quelques secondes, collecte les photos et réserve le technicien de garde. Personne n'a eu à décrocher.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Plomberie #AgentIA #Automatisation #Outaouais",
+      "hook": "Samedi, 6 h 30. Plus d'eau chaude à Gatineau.",
+      "format": "regarde-comment",
+      "industry": "Plomberie / CVC",
+      "region": "Outaouais",
+      "duration": 38.6,
+      "video_url": "https://cdn.jsdelivr.net/gh/imanehar/caltech-reels@4459373062829ceee328a669260e18811e076439/videos/2026-11-14-1.mp4",
+      "raw_url": "https://raw.githubusercontent.com/imanehar/caltech-reels/4459373062829ceee328a669260e18811e076439/videos/2026-11-14-1.mp4"
+    },
+    {
+      "id": "2026-11-14-2",
+      "file": "videos/2026-11-14-2.mp4",
+      "post_at": "2026-11-14T12:30:00-05:00",
+      "caption": "Tes électriciens textent leurs heures, l'agent IA compile tout par chantier et prépare la facture. Fini les vendredis soir à déchiffrer des papiers en Chaudière-Appalaches.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Électricien #AgentIA #Automatisation #ChaudièreAppalaches",
+      "hook": "Combien d'heures sur les feuilles de temps?",
+      "format": "sauve-du-temps",
+      "industry": "Électriciens",
+      "region": "Chaudière-Appalaches",
+      "duration": 25.6,
+      "video_url": "https://cdn.jsdelivr.net/gh/imanehar/caltech-reels@4459373062829ceee328a669260e18811e076439/videos/2026-11-14-2.mp4",
+      "raw_url": "https://raw.githubusercontent.com/imanehar/caltech-reels/4459373062829ceee328a669260e18811e076439/videos/2026-11-14-2.mp4"
+    },
+    {
+      "id": "2026-11-14-3",
+      "file": "videos/2026-11-14-3.mp4",
+      "post_at": "2026-11-14T18:00:00-05:00",
+      "caption": "Au Centre-du-Québec, chaque versement en retard, c'est du diesel que tu avances de ta poche. Un agent IA envoie les rappels poliment, avec un lien de paiement, sans que tu aies à courir après personne.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Déneigement #AgentIA #Automatisation #CentreDuQuébec",
+      "hook": "Combien te coûte un client qui paie en retard?",
+      "format": "cout-cache",
+      "industry": "Paysagement / déneigement",
+      "region": "Centre-du-Québec",
+      "duration": 27.2,
+      "video_url": "https://cdn.jsdelivr.net/gh/imanehar/caltech-reels@4459373062829ceee328a669260e18811e076439/videos/2026-11-14-3.mp4",
+      "raw_url": "https://raw.githubusercontent.com/imanehar/caltech-reels/4459373062829ceee328a669260e18811e076439/videos/2026-11-14-3.mp4"
     }
   ],
-  "updated_at": "2026-11-13T05:39:47-05:00",
+  "updated_at": "2026-11-14T05:40:22-05:00",
   "posted": [
     "2026-11-06-1"
   ]

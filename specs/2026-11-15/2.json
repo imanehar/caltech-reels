@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-15-2",
+  "music": 2,
+  "meta": {"hook": "Le marché ralentit? Profites-en.", "format": "3-taches", "industry": "Courtiers immobiliers", "region": "Bas-Saint-Laurent"},
+  "scenes": [
+    {"type": "hook", "kicker": "Immobilier · Bas-Saint-Laurent", "lines": ["Le marché", "ralentit?", "Profites-en."], "accent_line": 2,
+     "sub": "Tes ventes du printemps se préparent maintenant.", "pill": "3 tâches à confier"},
+    {"type": "list", "dark": false, "title": "3 tâches à confier à un agent IA cette semaine", "items": [
+      ["Relancer les vieux leads", "Un message personnalisé à chaque acheteur dormant."],
+      ["Qualifier les demandes", "Budget, secteur, préapprobation : tout est noté."],
+      ["Booker les visites", "L'acheteur choisit une plage dans ton calendrier."]]},
+    {"type": "statement", "kicker": "Pendant ce temps", "lines": ["Toi, tu prends", "tes inscriptions."], "accent_line": 1,
+     "bubble": {"label": "Relance automatique", "text": "Bonjour Julie! Tu cherchais un plain-pied à Rimouski. Une nouvelle maison vient d'entrer. Je t'envoie les photos?"},
+     "after": "Et ton printemps commence en avance."},
+    {"type": "cta", "lines": ["Aucun lead oublié.", "Même en novembre."], "keyword": "AUDIT",
+     "sub": "et on t'envoie 3 tâches que ton entreprise peut automatiser.", "free": "Gratuit."}
+  ],
+  "caption": "Dans le Bas-Saint-Laurent, novembre est plus tranquille. C'est le bon moment pour qu'un agent IA relance tes vieux leads, qualifie les demandes et remplisse ton calendrier de visites.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Immobilier #AgentIA #Automatisation #BasSaintLaurent"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "2026-11-15-3",
+  "music": 0,
+  "meta": {"hook": "Dimanche, 19 h. Un patient annule demain 8 h.", "format": "regarde-comment", "industry": "Cliniques", "region": "Abitibi-Témiscamingue"},
+  "scenes": [
+    {"type": "hook", "kicker": "Clinique · Abitibi", "lines": ["Dimanche, 19 h.", "Un patient annule", "demain 8 h."], "accent_line": 0,
+     "sub": "Et ta réception est fermée.", "pill": "Regarde ce qui se passe"},
+    {"type": "notif", "time": "19:02", "date": "dimanche 15 novembre", "label": "Nouveau message · texto", "title": "Annulation de rendez-vous",
+     "lines": ["Éric B. · Amos", "Lundi 8 h · physiothérapie"], "caption": "D'habitude, la plage reste vide."},
+    {"type": "chat", "business": "Clinique Physio Harricana", "initials": "PH", "badge": "Réponse en 20 secondes", "messages": [
+      {"side": "ai", "text": "Bonjour Éric! Ici l'assistant de la Clinique Physio Harricana. C'est noté, ton rendez-vous de lundi 8 h est annulé."},
+      {"side": "ai", "text": "Veux-tu qu'on le déplace? J'ai mercredi 16 h ou jeudi 10 h."},
+      {"side": "client", "text": "Jeudi 10 h, parfait!"},
+      {"side": "ai", "text": "C'est réservé. Tu vas recevoir un rappel mercredi."},
+      {"side": "client", "text": "Merci, super rapide!"}]},
+    {"type": "card", "kicker": "Pendant ce temps", "intro": "la liste d'attente reçoit ça :", "title": "Plage libérée", "tag": "Comblée",
+     "rows": [["Plage", "Lundi 8 h"], ["Offerte à", "3 personnes en attente"], ["Acceptée par", "Nadia R."], ["Délai", "6 minutes"], ["Éric B.", "Déplacé à jeudi 10 h"]],
+     "confirm": ["Agenda mis à jour", "Lundi 08:00 · Nadia R. · Amos"]},
+    {"type": "statement", "kicker": "Lundi, 7 h", "lines": ["Le rappel part", "tout seul."], "accent_line": 1,
+     "bubble": {"label": "Rappel automatique", "text": "Bonjour Nadia! On t'attend ce matin à 8 h. Réponds OUI pour confirmer."},
+     "after": "Aucune plage perdue. Aucun appel."},
+    {"type": "cta", "lines": ["Moins de trous", "dans ton agenda."], "keyword": "AUDIT",
+     "sub": "et on t'envoie 3 tâches que ton entreprise peut automatiser.", "free": "Gratuit."}
+  ],
+  "caption": "Une annulation un dimanche soir en Abitibi-Témiscamingue? L'agent IA déplace le rendez-vous, offre la plage à la liste d'attente et envoie les rappels. Lundi matin, l'agenda est plein.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Clinique #AgentIA #Automatisation #Abitibi"
+}

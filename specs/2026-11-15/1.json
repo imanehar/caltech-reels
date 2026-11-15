@@ -1,0 +1,20 @@
+{
+  "id": "2026-11-15-1",
+  "music": 1,
+  "meta": {"hook": "Janvier approche. Les boîtes de reçus aussi.", "format": "avant-apres", "industry": "Cabinets comptables", "region": "Saguenay–Lac-Saint-Jean"},
+  "scenes": [
+    {"type": "hook", "kicker": "Comptabilité · Saguenay", "lines": ["Janvier approche.", "Les boîtes de", "reçus aussi."], "accent_line": 2,
+     "sub": "Et ton équipe est déjà à bout.", "pill": "Avant / après"},
+    {"type": "list", "dark": false, "title": "Avant", "items": [
+      ["Documents en retard", "Tu relances chaque client un par un."],
+      ["Reçus en vrac", "Photos floues, courriels, boîtes à chaussures."],
+      ["Mêmes questions", "« T'as reçu mes papiers? » 20 fois par jour."]]},
+    {"type": "list", "dark": true, "title": "Après", "items": [
+      ["Relances automatiques", "Chaque client sait ce qui manque à son dossier."],
+      ["Reçus classés tout seuls", "L'agent lit, trie et range par client."],
+      ["Réponses instantanées", "Le client voit où en est son dossier."]]},
+    {"type": "cta", "lines": ["Moins de paperasse.", "Plus de vrais conseils."], "keyword": "AUDIT",
+     "sub": "et on t'envoie 3 tâches que ton entreprise peut automatiser.", "free": "Gratuit."}
+  ],
+  "caption": "Au Saguenay–Lac-Saint-Jean comme ailleurs, la saison des impôts commence par une chasse aux documents. Un agent IA relance tes clients, classe leurs reçus et répond à leurs questions pendant que ton équipe fait la vraie job.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Comptabilité #AgentIA #Automatisation #Saguenay"
+}

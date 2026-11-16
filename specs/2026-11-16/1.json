@@ -1,0 +1,20 @@
+{
+  "id": "2026-11-16-1",
+  "music": 1,
+  "meta": {"hook": "Combien d'heures sur les horaires de ton staff?", "format": "sauve-du-temps", "industry": "Restaurants / traiteurs", "region": "Côte-Nord"},
+  "scenes": [
+    {"type": "hook", "kicker": "Restaurant · Côte-Nord", "lines": ["Combien d'heures", "sur les horaires", "de ton staff?"], "accent_line": 1,
+     "sub": "Entre deux services, au téléphone.", "pill": "Calcule avec moi"},
+    {"type": "statement", "kicker": "La semaine typique", "lines": ["Textos, échanges,", "remplacements…", "à 23 h."], "accent_line": 2,
+     "bubble": {"label": "Texto de 23 h 12", "text": "Je peux pas faire mon shift demain midi. Quelqu'un peut me remplacer?"},
+     "after": "Et tu recommences la semaine d'après."},
+    {"type": "card", "kicker": "Avec un agent IA", "intro": "voici ce qui se fait tout seul :", "title": "Horaire de la semaine", "tag": "Automatique",
+     "rows": [["Disponibilités", "Reçues par texto"], ["Horaire", "Monté et envoyé"], ["Absence", "Remplaçant trouvé"], ["Échanges", "Approuvés par toi"], ["Rappels", "La veille du shift"]],
+     "confirm": ["Horaire publié", "Semaine du 23 nov. · 14 employés"]},
+    {"type": "statement", "kicker": "Par exemple", "lines": ["Jusqu'à 5 h", "de moins par", "semaine."], "accent_line": 0,
+     "after": "Du temps pour ta cuisine."},
+    {"type": "cta", "lines": ["Ton horaire se fait", "pendant ton service."], "keyword": "AUDIT",
+     "sub": "et on t'envoie 3 tâches que ton entreprise peut automatiser.", "free": "Gratuit."}
+  ],
+  "caption": "Sur la Côte-Nord, trouver un remplaçant à 23 h, c'est du sport. Un agent IA ramasse les disponibilités, monte l'horaire et trouve les remplaçants par texto pendant que toi, tu gères ta cuisine.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Restauration #AgentIA #Automatisation #CôteNord"
+}

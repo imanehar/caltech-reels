@@ -1,0 +1,22 @@
+{
+  "id": "2026-11-16-2",
+  "music": 2,
+  "meta": {"hook": "Combien te coûte une preuve de livraison perdue?", "format": "cout-cache", "industry": "Transport / logistique", "region": "Gaspésie–Îles-de-la-Madeleine"},
+  "scenes": [
+    {"type": "hook", "kicker": "Transport · Gaspésie", "lines": ["Combien te coûte", "une preuve de", "livraison perdue?"], "accent_line": 2,
+     "sub": "Pas de papier, pas de facture.", "pill": "Fais le calcul"},
+    {"type": "statement", "kicker": "Exemple simple", "lines": ["1 bon perdu", "= 1 facture", "en retard."], "accent_line": 2,
+     "bubble": {"label": "Par exemple", "text": "10 livraisons à 800 $ qui attendent leur papier = 8 000 $ qui dorment chaque semaine."},
+     "after": "Pendant ce temps, tu paies le diesel."},
+    {"type": "chat", "business": "Transport Lavoie", "initials": "TL", "badge": "Facture envoyée en 2 minutes", "messages": [
+      {"side": "ai", "text": "Salut Kevin! Livraison à Gaspé terminée? Envoie-moi une photo du bon signé."},
+      {"side": "client", "text": "Oui, c'est fait. Voici."},
+      {"side": "client", "photos": 2},
+      {"side": "ai", "text": "Merci! Bon reçu, signé par M. Cloutier à 14 h 06."},
+      {"side": "ai", "text": "La facture part au client maintenant. Bonne route!"},
+      {"side": "client", "text": "Parfait, merci!"}]},
+    {"type": "cta", "lines": ["Livré aujourd'hui.", "Facturé aujourd'hui."], "keyword": "AUDIT",
+     "sub": "et on t'envoie 3 tâches que ton entreprise peut automatiser.", "free": "Gratuit."}
+  ],
+  "caption": "En Gaspésie, un bon de livraison peut rouler des jours dans un camion avant d'arriver au bureau. Un agent IA récupère la preuve signée par texto et envoie la facture le jour même.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Transport #AgentIA #Automatisation #Gaspésie"
+}

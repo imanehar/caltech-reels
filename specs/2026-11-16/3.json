@@ -1,0 +1,20 @@
+{
+  "id": "2026-11-16-3",
+  "music": 0,
+  "meta": {"hook": "3 jours pour une soumission? Trop long.", "format": "avant-apres", "industry": "Manufacturiers", "region": "Nord-du-Québec"},
+  "scenes": [
+    {"type": "hook", "kicker": "Manufacturier · Nord-du-Québec", "lines": ["3 jours pour", "une soumission?", "Trop long."], "accent_line": 2,
+     "sub": "Ton client a déjà appelé ailleurs.", "pill": "Avant / après"},
+    {"type": "list", "dark": false, "title": "Avant", "items": [
+      ["Demandes éparpillées", "Courriels, PDF, appels : rien au même endroit."],
+      ["Calculs à la main", "Tu ressors les vieux prix dans tes fichiers."],
+      ["Aucune relance", "La soumission part, puis plus de nouvelles."]]},
+    {"type": "list", "dark": true, "title": "Après", "items": [
+      ["Demandes centralisées", "L'agent lit le courriel et les plans joints."],
+      ["Soumission préparée", "Prix et délais calculés. Toi, tu valides."],
+      ["Relance automatique", "Le client reçoit un suivi 3 jours plus tard."]]},
+    {"type": "cta", "lines": ["Soumets plus vite.", "Gagne plus de contrats."], "keyword": "AUDIT",
+     "sub": "et on t'envoie 3 tâches que ton entreprise peut automatiser.", "free": "Gratuit."}
+  ],
+  "caption": "Dans le Nord-du-Québec comme partout, le client prend souvent la première soumission qui arrive. Un agent IA lit la demande, prépare les prix et relance le client pendant que ton usine roule.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Manufacturier #AgentIA #Automatisation #NordDuQuébec"
+}

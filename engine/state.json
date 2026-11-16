@@ -1,9 +1,6 @@
 {
- "idx": 31,
+ "idx": 34,
  "recent_hooks": [
-  "Combien d'heures par semaine à rappeler tes clients?",
-  "Combien te coûte une soumission oubliée?",
-  "La saison du déneigement, avant et après un agent IA",
   "Ton cabinet court après les documents?",
   "Samedi, 7 h 52. Une acheteuse veut visiter.",
   "Combien d'heures à confirmer des rendez-vous?",
@@ -30,6 +27,9 @@
   "Combien te coûte un client qui paie en retard?",
   "Janvier approche. Les boîtes de reçus aussi.",
   "Le marché ralentit? Profites-en.",
-  "Dimanche, 19 h. Un patient annule demain 8 h."
+  "Dimanche, 19 h. Un patient annule demain 8 h.",
+  "Combien d'heures sur les horaires de ton staff?",
+  "Combien te coûte une preuve de livraison perdue?",
+  "3 jours pour une soumission? Trop long."
  ]
 }

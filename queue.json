@@ -1,45 +1,6 @@
 {
   "items": [
     {
-      "id": "2026-11-12-1",
-      "file": "videos/2026-11-12-1.mp4",
-      "post_at": "2026-11-12T08:00:00-05:00",
-      "caption": "Réservations, questions sur le menu, demandes de traiteur : un agent IA peut répondre pendant que ton équipe de la Montérégie reste concentrée sur le service.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Restauration #AgentIA #Automatisation #Montérégie",
-      "hook": "Ton resto ferme. Ton téléphone, lui, sonne encore.",
-      "format": "3-taches",
-      "industry": "Restaurants / traiteurs",
-      "region": "Montérégie",
-      "duration": 22.1,
-      "video_url": "https://cdn.jsdelivr.net/gh/imanehar/caltech-reels@655e58a6453cfbb65385d45e0cd82ee36f9719e5/videos/2026-11-12-1.mp4",
-      "raw_url": "https://raw.githubusercontent.com/imanehar/caltech-reels/655e58a6453cfbb65385d45e0cd82ee36f9719e5/videos/2026-11-12-1.mp4"
-    },
-    {
-      "id": "2026-11-12-2",
-      "file": "videos/2026-11-12-2.mp4",
-      "post_at": "2026-11-12T12:30:00-05:00",
-      "caption": "Une demande de transport à 16 h 55, qualifiée en 40 secondes et ajoutée à l'horaire — sans retenir ton répartiteur au bureau. Exemple fictif d'une PME de la Capitale-Nationale.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Transport #AgentIA #Automatisation #Québec",
-      "hook": "16 h 55. Un client veut un camion demain.",
-      "format": "regarde-comment",
-      "industry": "Transport / logistique",
-      "region": "Capitale-Nationale",
-      "duration": 38.5,
-      "video_url": "https://cdn.jsdelivr.net/gh/imanehar/caltech-reels@655e58a6453cfbb65385d45e0cd82ee36f9719e5/videos/2026-11-12-2.mp4",
-      "raw_url": "https://raw.githubusercontent.com/imanehar/caltech-reels/655e58a6453cfbb65385d45e0cd82ee36f9719e5/videos/2026-11-12-2.mp4"
-    },
-    {
-      "id": "2026-11-12-3",
-      "file": "videos/2026-11-12-3.mp4",
-      "post_at": "2026-11-12T18:00:00-05:00",
-      "caption": "Tes bons de commande arrivent par courriel et quelqu'un les retape ligne par ligne? Un agent IA lit la commande, vérifie les codes et les prix, et la prépare dans ton système. Ton équipe des Laurentides n'a plus qu'à approuver.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Manufacturier #AgentIA #Automatisation #Laurentides",
-      "hook": "Combien d'heures sur les bons de commande?",
-      "format": "sauve-du-temps",
-      "industry": "Manufacturiers",
-      "region": "Laurentides",
-      "duration": 28.0,
-      "video_url": "https://cdn.jsdelivr.net/gh/imanehar/caltech-reels@655e58a6453cfbb65385d45e0cd82ee36f9719e5/videos/2026-11-12-3.mp4",
-      "raw_url": "https://raw.githubusercontent.com/imanehar/caltech-reels/655e58a6453cfbb65385d45e0cd82ee36f9719e5/videos/2026-11-12-3.mp4"
-    },
-    {
       "id": "2026-11-13-1",
       "file": "videos/2026-11-13-1.mp4",
       "post_at": "2026-11-13T08:00:00-05:00",
@@ -155,9 +116,48 @@
       "duration": 37.4,
       "video_url": "https://cdn.jsdelivr.net/gh/imanehar/caltech-reels@dc7933a43c3b44c23a336168a5200dc56b3c8df7/videos/2026-11-15-3.mp4",
       "raw_url": "https://raw.githubusercontent.com/imanehar/caltech-reels/dc7933a43c3b44c23a336168a5200dc56b3c8df7/videos/2026-11-15-3.mp4"
+    },
+    {
+      "id": "2026-11-16-1",
+      "file": "videos/2026-11-16-1.mp4",
+      "post_at": "2026-11-16T08:00:00-05:00",
+      "caption": "Sur la Côte-Nord, trouver un remplaçant à 23 h, c'est du sport. Un agent IA ramasse les disponibilités, monte l'horaire et trouve les remplaçants par texto pendant que toi, tu gères ta cuisine.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Restauration #AgentIA #Automatisation #CôteNord",
+      "hook": "Combien d'heures sur les horaires de ton staff?",
+      "format": "sauve-du-temps",
+      "industry": "Restaurants / traiteurs",
+      "region": "Côte-Nord",
+      "duration": 27.0,
+      "video_url": "https://cdn.jsdelivr.net/gh/imanehar/caltech-reels@967745ec92078f5b010fd01bdd1a68e985669022/videos/2026-11-16-1.mp4",
+      "raw_url": "https://raw.githubusercontent.com/imanehar/caltech-reels/967745ec92078f5b010fd01bdd1a68e985669022/videos/2026-11-16-1.mp4"
+    },
+    {
+      "id": "2026-11-16-2",
+      "file": "videos/2026-11-16-2.mp4",
+      "post_at": "2026-11-16T12:30:00-05:00",
+      "caption": "En Gaspésie, un bon de livraison peut rouler des jours dans un camion avant d'arriver au bureau. Un agent IA récupère la preuve signée par texto et envoie la facture le jour même.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Transport #AgentIA #Automatisation #Gaspésie",
+      "hook": "Combien te coûte une preuve de livraison perdue?",
+      "format": "cout-cache",
+      "industry": "Transport / logistique",
+      "region": "Gaspésie–Îles-de-la-Madeleine",
+      "duration": 29.1,
+      "video_url": "https://cdn.jsdelivr.net/gh/imanehar/caltech-reels@967745ec92078f5b010fd01bdd1a68e985669022/videos/2026-11-16-2.mp4",
+      "raw_url": "https://raw.githubusercontent.com/imanehar/caltech-reels/967745ec92078f5b010fd01bdd1a68e985669022/videos/2026-11-16-2.mp4"
+    },
+    {
+      "id": "2026-11-16-3",
+      "file": "videos/2026-11-16-3.mp4",
+      "post_at": "2026-11-16T18:00:00-05:00",
+      "caption": "Dans le Nord-du-Québec comme partout, le client prend souvent la première soumission qui arrive. Un agent IA lit la demande, prépare les prix et relance le client pendant que ton usine roule.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Manufacturier #AgentIA #Automatisation #NordDuQuébec",
+      "hook": "3 jours pour une soumission? Trop long.",
+      "format": "avant-apres",
+      "industry": "Manufacturiers",
+      "region": "Nord-du-Québec",
+      "duration": 22.3,
+      "video_url": "https://cdn.jsdelivr.net/gh/imanehar/caltech-reels@967745ec92078f5b010fd01bdd1a68e985669022/videos/2026-11-16-3.mp4",
+      "raw_url": "https://raw.githubusercontent.com/imanehar/caltech-reels/967745ec92078f5b010fd01bdd1a68e985669022/videos/2026-11-16-3.mp4"
     }
   ],
-  "updated_at": "2026-11-15T05:40:11-05:00",
+  "updated_at": "2026-11-16T05:40:55-05:00",
   "posted": [
     "2026-11-06-1"
   ]

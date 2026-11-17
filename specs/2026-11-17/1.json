@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-17-1",
+  "music": 2,
+  "meta": {"hook": "Le rush des Fêtes s'en vient. T'es prêt?", "format": "3-taches", "industry": "Commerce de détail", "region": "Montréal"},
+  "scenes": [
+    {"type": "hook", "kicker": "Boutique · Montréal", "lines": ["Le rush des Fêtes", "s'en vient.", "T'es prêt?"], "accent_line": 2,
+     "sub": "Les questions arrivent avant les clients.", "pill": "3 tâches à confier"},
+    {"type": "list", "dark": false, "title": "3 tâches à confier à un agent IA cette semaine", "items": [
+      ["Répondre aux questions", "Heures, stock, tailles : réponse en secondes, même le soir."],
+      ["Mettre des items de côté", "Le client réserve, l'agent prévient ton équipe."],
+      ["Suivre les commandes", "« Il est où mon colis? » : l'agent répond seul."]]},
+    {"type": "statement", "kicker": "Pendant ce temps", "lines": ["Toi, tu restes", "sur le plancher."], "accent_line": 1,
+     "bubble": {"label": "Message de 21 h 40", "text": "Bonjour Sophie! Oui, il reste 2 foulards bleus. Je t'en mets un de côté jusqu'à samedi?"},
+     "after": "Et la vente se fait pendant que t'es fermé."},
+    {"type": "cta", "lines": ["Plus de ventes.", "Moins de messages."], "keyword": "AUDIT",
+     "sub": "et on t'envoie 3 tâches que ton entreprise peut automatiser.", "free": "Gratuit."}
+  ],
+  "caption": "À Montréal, décembre commence en novembre pour les boutiques. Un agent IA répond aux questions, met des items de côté et suit les commandes pendant que tu sers tes clients.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #CommerceDeDétail #AgentIA #Automatisation #Montréal"
+}

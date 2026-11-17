@@ -1,0 +1,94 @@
+{
+  "id": "2026-11-17-3",
+  "music": 1,
+  "meta": {
+    "hook": "Combien d'heures à coordonner tes sous-traitants?",
+    "format": "sauve-du-temps",
+    "industry": "Rénovation / construction",
+    "region": "Montérégie"
+  },
+  "scenes": [
+    {
+      "type": "hook",
+      "kicker": "Rénovation · Montérégie",
+      "lines": [
+        "Combien d'heures",
+        "à coordonner tes",
+        "sous-traitants?"
+      ],
+      "accent_line": 2,
+      "sub": "Électricien, plombier, plâtrier…",
+      "pill": "Calcule avec moi"
+    },
+    {
+      "type": "statement",
+      "kicker": "La semaine typique",
+      "lines": [
+        "Appels, textos,",
+        "dates qui",
+        "changent."
+      ],
+      "accent_line": 2,
+      "bubble": {
+        "label": "Texto de 6 h 50",
+        "text": "Je pourrai pas être là mardi, on peut pousser à jeudi?"
+      },
+      "after": "Et tout ton calendrier tombe."
+    },
+    {
+      "type": "card",
+      "kicker": "Avec un agent IA",
+      "intro": "voici ce qui se fait tout seul :",
+      "title": "Ton chantier",
+      "tag": "Automatique",
+      "rows": [
+        [
+          "Dates",
+          "Confirmées par texto"
+        ],
+        [
+          "Changement",
+          "Calendrier ajusté"
+        ],
+        [
+          "Client",
+          "Avisé du nouvel horaire"
+        ],
+        [
+          "Rappels",
+          "La veille de chaque job"
+        ],
+        [
+          "Conflits",
+          "Signalés à toi"
+        ]
+      ],
+      "confirm": [
+        "Horaire envoyé",
+        "Chantier Beloeil · 4 sous-traitants"
+      ]
+    },
+    {
+      "type": "statement",
+      "kicker": "Par exemple",
+      "lines": [
+        "Jusqu'à 4 h",
+        "de moins par",
+        "semaine."
+      ],
+      "accent_line": 0,
+      "after": "Du temps pour tes soumissions."
+    },
+    {
+      "type": "cta",
+      "lines": [
+        "Ton chantier se",
+        "coordonne tout seul."
+      ],
+      "keyword": "AUDIT",
+      "sub": "et on t'envoie 3 tâches que ton entreprise peut automatiser.",
+      "free": "Gratuit."
+    }
+  ],
+  "caption": "En Montérégie, un sous-traitant qui décale, c'est tout le chantier qui bouge. Un agent IA confirme les dates, ajuste le calendrier et avise ton client pendant que toi, tu fais tes soumissions.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Rénovation #AgentIA #Automatisation #Montérégie"
+}

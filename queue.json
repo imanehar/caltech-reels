@@ -1,45 +1,6 @@
 {
   "items": [
     {
-      "id": "2026-11-13-1",
-      "file": "videos/2026-11-13-1.mp4",
-      "post_at": "2026-11-13T08:00:00-05:00",
-      "caption": "Une cliente pose une question à 21 h et n'a pas de réponse? Elle achète ailleurs. Un agent IA répond en secondes, vérifie le stock et réserve l'article. Exemple fictif d'une boutique de Lanaudière.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #CommerceDeDétail #AgentIA #Automatisation #Lanaudière",
-      "hook": "Combien te coûte un panier abandonné?",
-      "format": "cout-cache",
-      "industry": "Commerce de détail",
-      "region": "Lanaudière",
-      "duration": 28.7,
-      "video_url": "https://cdn.jsdelivr.net/gh/imanehar/caltech-reels@12ca9b77c610b7a67695f8e15c6623c4b0f6b2de/videos/2026-11-13-1.mp4",
-      "raw_url": "https://raw.githubusercontent.com/imanehar/caltech-reels/12ca9b77c610b7a67695f8e15c6623c4b0f6b2de/videos/2026-11-13-1.mp4"
-    },
-    {
-      "id": "2026-11-13-2",
-      "file": "videos/2026-11-13-2.mp4",
-      "post_at": "2026-11-13T12:30:00-05:00",
-      "caption": "Tu gères des immeubles en Estrie et ton cell sonne à toute heure? Un agent IA reçoit les demandes des locataires, trie les urgences et tient tout le monde au courant.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #GestionImmobilière #AgentIA #Automatisation #Estrie",
-      "hook": "2 h du matin. Un dégât d'eau au 3e étage.",
-      "format": "avant-apres",
-      "industry": "Gestion immobilière",
-      "region": "Estrie",
-      "duration": 22.3,
-      "video_url": "https://cdn.jsdelivr.net/gh/imanehar/caltech-reels@12ca9b77c610b7a67695f8e15c6623c4b0f6b2de/videos/2026-11-13-2.mp4",
-      "raw_url": "https://raw.githubusercontent.com/imanehar/caltech-reels/12ca9b77c610b7a67695f8e15c6623c4b0f6b2de/videos/2026-11-13-2.mp4"
-    },
-    {
-      "id": "2026-11-13-3",
-      "file": "videos/2026-11-13-3.mp4",
-      "post_at": "2026-11-13T18:00:00-05:00",
-      "caption": "En Mauricie, les clients magasinent leurs rénos du printemps maintenant. Un agent IA répond aux demandes, relance tes soumissions et planifie les visites pendant que tu finis tes chantiers.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Rénovation #AgentIA #Automatisation #Mauricie",
-      "hook": "Tes soumissions du printemps se jouent déjà.",
-      "format": "3-taches",
-      "industry": "Rénovation / construction",
-      "region": "Mauricie",
-      "duration": 22.1,
-      "video_url": "https://cdn.jsdelivr.net/gh/imanehar/caltech-reels@12ca9b77c610b7a67695f8e15c6623c4b0f6b2de/videos/2026-11-13-3.mp4",
-      "raw_url": "https://raw.githubusercontent.com/imanehar/caltech-reels/12ca9b77c610b7a67695f8e15c6623c4b0f6b2de/videos/2026-11-13-3.mp4"
-    },
-    {
       "id": "2026-11-14-1",
       "file": "videos/2026-11-14-1.mp4",
       "post_at": "2026-11-14T08:00:00-05:00",
@@ -155,9 +116,48 @@
       "duration": 22.3,
       "video_url": "https://cdn.jsdelivr.net/gh/imanehar/caltech-reels@967745ec92078f5b010fd01bdd1a68e985669022/videos/2026-11-16-3.mp4",
       "raw_url": "https://raw.githubusercontent.com/imanehar/caltech-reels/967745ec92078f5b010fd01bdd1a68e985669022/videos/2026-11-16-3.mp4"
+    },
+    {
+      "id": "2026-11-17-1",
+      "file": "videos/2026-11-17-1.mp4",
+      "post_at": "2026-11-17T08:00:00-05:00",
+      "caption": "À Montréal, décembre commence en novembre pour les boutiques. Un agent IA répond aux questions, met des items de côté et suit les commandes pendant que tu sers tes clients.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #CommerceDeDétail #AgentIA #Automatisation #Montréal",
+      "hook": "Le rush des Fêtes s'en vient. T'es prêt?",
+      "format": "3-taches",
+      "industry": "Commerce de détail",
+      "region": "Montréal",
+      "duration": 22.1,
+      "video_url": "https://cdn.jsdelivr.net/gh/imanehar/caltech-reels@848066480a82dc6b33a901956aa5bf43b9f336f3/videos/2026-11-17-1.mp4",
+      "raw_url": "https://raw.githubusercontent.com/imanehar/caltech-reels/848066480a82dc6b33a901956aa5bf43b9f336f3/videos/2026-11-17-1.mp4"
+    },
+    {
+      "id": "2026-11-17-2",
+      "file": "videos/2026-11-17-2.mp4",
+      "post_at": "2026-11-17T12:30:00-05:00",
+      "caption": "Une demande pour un logement à Laval, un vendredi soir? L'agent IA répond, pose les bonnes questions et booke la visite avant que le locataire regarde ailleurs.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #GestionImmobilière #AgentIA #Automatisation #Laval",
+      "hook": "Vendredi, 17 h 40. 3 demandes pour ton 4½ libre.",
+      "format": "regarde-comment",
+      "industry": "Gestion immobilière",
+      "region": "Laval",
+      "duration": 37.3,
+      "video_url": "https://cdn.jsdelivr.net/gh/imanehar/caltech-reels@848066480a82dc6b33a901956aa5bf43b9f336f3/videos/2026-11-17-2.mp4",
+      "raw_url": "https://raw.githubusercontent.com/imanehar/caltech-reels/848066480a82dc6b33a901956aa5bf43b9f336f3/videos/2026-11-17-2.mp4"
+    },
+    {
+      "id": "2026-11-17-3",
+      "file": "videos/2026-11-17-3.mp4",
+      "post_at": "2026-11-17T18:00:00-05:00",
+      "caption": "En Montérégie, un sous-traitant qui décale, c'est tout le chantier qui bouge. Un agent IA confirme les dates, ajuste le calendrier et avise ton client pendant que toi, tu fais tes soumissions.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Rénovation #AgentIA #Automatisation #Montérégie",
+      "hook": "Combien d'heures à coordonner tes sous-traitants?",
+      "format": "sauve-du-temps",
+      "industry": "Rénovation / construction",
+      "region": "Montérégie",
+      "duration": 27.0,
+      "video_url": "https://cdn.jsdelivr.net/gh/imanehar/caltech-reels@848066480a82dc6b33a901956aa5bf43b9f336f3/videos/2026-11-17-3.mp4",
+      "raw_url": "https://raw.githubusercontent.com/imanehar/caltech-reels/848066480a82dc6b33a901956aa5bf43b9f336f3/videos/2026-11-17-3.mp4"
     }
   ],
-  "updated_at": "2026-11-16T05:40:55-05:00",
+  "updated_at": "2026-11-17T05:39:58-05:00",
   "posted": [
     "2026-11-06-1"
   ]

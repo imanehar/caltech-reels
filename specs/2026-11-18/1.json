@@ -1,0 +1,21 @@
+{
+  "id": "2026-11-18-1",
+  "music": 1,
+  "meta": {"hook": "Combien te coûte un entretien de fournaise oublié?", "format": "cout-cache", "industry": "Plomberie / CVC", "region": "Capitale-Nationale"},
+  "scenes": [
+    {"type": "hook", "kicker": "CVC · Québec", "lines": ["Combien te coûte", "un entretien", "oublié?"], "accent_line": 2,
+     "sub": "Le client appelle quelqu'un d'autre.", "pill": "Fais le calcul"},
+    {"type": "statement", "kicker": "Exemple simple", "lines": ["1 rappel oublié", "= 1 client", "perdu."], "accent_line": 2,
+     "bubble": {"label": "Par exemple", "text": "20 entretiens annuels pas rappelés à 180 $ = 3 600 $ qui partent chez le voisin."},
+     "after": "Et souvent, le prochain dépannage aussi."},
+    {"type": "chat", "business": "Chauffage Lévesque", "initials": "CL", "badge": "Rappel envoyé tout seul", "messages": [
+      {"side": "ai", "text": "Bonjour Nathalie! Ici l'assistant de Chauffage Lévesque. Ta thermopompe est due pour son entretien annuel."},
+      {"side": "ai", "text": "On a de la place mardi 9 h ou jeudi 13 h. Qu'est-ce qui te va?"},
+      {"side": "client", "text": "Jeudi 13 h, c'est parfait."},
+      {"side": "ai", "text": "C'est noté! Le technicien t'écrit la veille pour confirmer."},
+      {"side": "client", "text": "Merci, super!"}]},
+    {"type": "cta", "lines": ["Tes clients reviennent.", "Sans que tu rappelles."], "keyword": "AUDIT",
+     "sub": "et on t'envoie 3 tâches que ton entreprise peut automatiser.", "free": "Gratuit."}
+  ],
+  "caption": "Dans la région de Québec, l'hiver arrive vite. Un agent IA rappelle tes clients pour leur entretien annuel et booke le rendez-vous avant qu'ils appellent ailleurs.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #CVC #AgentIA #Automatisation #CapitaleNationale"
+}

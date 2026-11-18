@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-18-3",
+  "music": 0,
+  "meta": {"hook": "Tes contrats de déneigement sont tous signés?", "format": "3-taches", "industry": "Paysagement / déneigement", "region": "Lanaudière"},
+  "scenes": [
+    {"type": "hook", "kicker": "Déneigement · Lanaudière", "lines": ["Tes contrats de", "déneigement sont", "tous signés?"], "accent_line": 2,
+     "sub": "La première neige, elle, n'attendra pas.", "pill": "3 tâches à confier"},
+    {"type": "list", "dark": false, "title": "3 tâches à confier à un agent IA cette semaine", "items": [
+      ["Relancer les contrats", "Les clients de l'an passé reçoivent leur renouvellement."],
+      ["Répondre aux demandes", "Prix, secteur, dates : réponse même le soir."],
+      ["Suivre les paiements", "Rappel poli pour chaque versement en retard."]]},
+    {"type": "statement", "kicker": "Pendant ce temps", "lines": ["Toi, tu prépares", "ta flotte."], "accent_line": 1,
+     "bubble": {"label": "Message de 20 h 15", "text": "Bonjour Martin! Ton contrat 2026-2027 est prêt. Tu veux le même forfait que l'an passé?"},
+     "after": "Et la saison part avec une liste complète."},
+    {"type": "cta", "lines": ["Contrats signés.", "Avant la neige."], "keyword": "AUDIT",
+     "sub": "et on t'envoie 3 tâches que ton entreprise peut automatiser.", "free": "Gratuit."}
+  ],
+  "caption": "Dans Lanaudière, la première bordée peut tomber n'importe quand. Un agent IA relance tes contrats, répond aux nouvelles demandes et suit les paiements pendant que tu prépares tes camions.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Déneigement #AgentIA #Automatisation #Lanaudière"
+}

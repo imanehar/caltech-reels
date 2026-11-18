@@ -1,9 +1,6 @@
 {
- "idx": 37,
+ "idx": 40,
  "recent_hooks": [
-  "Combien te coûte une demande de traiteur oubliée?",
-  "Encore 50 appels « Il est où mon envoi? »",
-  "Ton usine roule. Ton bureau, lui, déborde?",
   "Dimanche, 22 h. Une cliente veut un manteau en M.",
   "Combien d'heures sur les demandes de réparation?",
   "Combien te coûte un appel manqué sur le chantier?",
@@ -30,6 +27,9 @@
   "3 jours pour une soumission? Trop long.",
   "Le rush des Fêtes s'en vient. T'es prêt?",
   "Vendredi, 17 h 40. 3 demandes pour ton 4½ libre.",
-  "Combien d'heures à coordonner tes sous-traitants?"
+  "Combien d'heures à coordonner tes sous-traitants?",
+  "Combien te coûte un entretien de fournaise oublié?",
+  "Tes électriciens attendent après le bureau?",
+  "Tes contrats de déneigement sont tous signés?"
  ]
 }

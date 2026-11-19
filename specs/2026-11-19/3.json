@@ -1,0 +1,79 @@
+{
+ "id": "2026-11-19-3",
+ "music": 2,
+ "meta": {
+  "hook": "Combien te coûte un rendez-vous oublié?",
+  "format": "cout-cache",
+  "industry": "Cliniques",
+  "region": "Outaouais"
+ },
+ "scenes": [
+  {
+   "type": "hook",
+   "kicker": "Clinique · Outaouais",
+   "lines": [
+    "Combien te coûte",
+    "un rendez-vous",
+    "oublié?"
+   ],
+   "accent_line": 2,
+   "sub": "La plage reste vide. Le salaire, lui, est payé.",
+   "pill": "Fais le calcul"
+  },
+  {
+   "type": "statement",
+   "kicker": "Par exemple",
+   "lines": [
+    "3 absences",
+    "× 90 $",
+    "= 270 $ / semaine"
+   ],
+   "accent_line": 2,
+   "after": "Fais-le avec tes chiffres.",
+   "dark": true
+  },
+  {
+   "type": "chat",
+   "business": "Clinique des Collines",
+   "initials": "CC",
+   "badge": "Rappel automatique",
+   "messages": [
+    {
+     "side": "ai",
+     "text": "Bonjour Nadia! Rappel : ton rendez-vous est demain à 9 h à la Clinique des Collines."
+    },
+    {
+     "side": "ai",
+     "text": "Réponds OUI pour confirmer ou DÉPLACER pour changer l'heure."
+    },
+    {
+     "side": "client",
+     "text": "DÉPLACER, j'ai un imprévu."
+    },
+    {
+     "side": "ai",
+     "text": "Pas de problème! J'ai jeudi 14 h ou vendredi 10 h. Lequel te va?"
+    },
+    {
+     "side": "client",
+     "text": "Jeudi 14 h!"
+    },
+    {
+     "side": "ai",
+     "text": "C'est noté. Ta plage de demain est offerte à la liste d'attente."
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "lines": [
+    "Moins de plages vides.",
+    "Sans appels de rappel."
+   ],
+   "keyword": "AUDIT",
+   "sub": "et on t'envoie 3 tâches que ton entreprise peut automatiser.",
+   "free": "Gratuit."
+  }
+ ],
+ "caption": "En Outaouais, chaque rendez-vous oublié, c'est une plage perdue. Un agent IA envoie les rappels, déplace les rendez-vous et offre la place libérée à ta liste d'attente.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Clinique #AgentIA #Automatisation #Outaouais"
+}

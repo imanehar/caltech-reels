@@ -1,0 +1,122 @@
+{
+ "id": "2026-11-19-1",
+ "music": 1,
+ "meta": {
+  "hook": "22 h 07. Un client t'envoie ses reçus.",
+  "format": "regarde-comment",
+  "industry": "Cabinets comptables",
+  "region": "Estrie"
+ },
+ "scenes": [
+  {
+   "type": "hook",
+   "kicker": "Comptabilité · Estrie",
+   "lines": [
+    "22 h 07.",
+    "Un client t'envoie",
+    "ses reçus."
+   ],
+   "accent_line": 0,
+   "sub": "En vrac. Sans le feuillet qui manque.",
+   "pill": "Regarde ce qui se passe"
+  },
+  {
+   "type": "notif",
+   "time": "22:07",
+   "date": "jeudi 19 novembre",
+   "label": "Portail client",
+   "title": "14 fichiers reçus",
+   "lines": [
+    "Julie B. · Sherbrooke",
+    "Dossier fin d'année"
+   ],
+   "caption": "D'habitude, tu les tries à la main."
+  },
+  {
+   "type": "chat",
+   "business": "Comptabilité Mont-Orford",
+   "initials": "CM",
+   "badge": "Réponse en 40 secondes",
+   "messages": [
+    {
+     "side": "ai",
+     "text": "Bonsoir Julie! J'ai bien reçu tes 14 documents. Merci!"
+    },
+    {
+     "side": "ai",
+     "text": "Je les ai classés. Il manque ton relevé de frais de garde. Tu peux me l'envoyer?"
+    },
+    {
+     "side": "client",
+     "text": "Ah oui, je l'avais oublié! Le voici."
+    },
+    {
+     "side": "client",
+     "photos": 1
+    },
+    {
+     "side": "ai",
+     "text": "Parfait, ton dossier est complet. On te revient d'ici 2 semaines."
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "kicker": "Le lendemain matin",
+   "intro": "le comptable voit ça :",
+   "title": "Dossier Julie B.",
+   "tag": "Complet",
+   "rows": [
+    [
+     "Documents",
+     "15 reçus"
+    ],
+    [
+     "Classés",
+     "Par catégorie"
+    ],
+    [
+     "Manquants",
+     "Aucun"
+    ],
+    [
+     "Ville",
+     "Sherbrooke"
+    ],
+    [
+     "Priorité",
+     "Normale"
+    ]
+   ],
+   "confirm": [
+    "Dossier prêt à traiter",
+    "Assigné à : Marie · lundi"
+   ]
+  },
+  {
+   "type": "statement",
+   "kicker": "Pour les autres clients",
+   "lines": [
+    "Les rappels",
+    "partent tout seuls."
+   ],
+   "accent_line": 1,
+   "bubble": {
+    "label": "Rappel automatique",
+    "text": "Bonjour Paul! Il nous manque encore ton feuillet T4. Tu peux le déposer sur le portail?"
+   },
+   "after": "Plus besoin de courir après."
+  },
+  {
+   "type": "cta",
+   "lines": [
+    "Des dossiers complets.",
+    "Sans courir après."
+   ],
+   "keyword": "AUDIT",
+   "sub": "et on t'envoie 3 tâches que ton entreprise peut automatiser.",
+   "free": "Gratuit."
+  }
+ ],
+ "caption": "En Estrie comme ailleurs, la saison des impôts commence par une pile de reçus en vrac. Un agent IA classe les documents, repère ce qui manque et relance tes clients à ta place.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Comptabilité #AgentIA #Automatisation #Estrie"
+}

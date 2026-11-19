@@ -1,0 +1,95 @@
+{
+ "id": "2026-11-19-2",
+ "music": 0,
+ "meta": {
+  "hook": "Combien d'heures à planifier tes visites?",
+  "format": "sauve-du-temps",
+  "industry": "Courtiers immobiliers",
+  "region": "Mauricie"
+ },
+ "scenes": [
+  {
+   "type": "hook",
+   "kicker": "Immobilier · Mauricie",
+   "lines": [
+    "Combien d'heures",
+    "à planifier",
+    "tes visites?"
+   ],
+   "accent_line": 2,
+   "sub": "Textos, appels, rappels… chaque semaine.",
+   "pill": "Le calcul"
+  },
+  {
+   "type": "statement",
+   "kicker": "À la main",
+   "lines": [
+    "Un acheteur écrit.",
+    "Tu appelles le",
+    "vendeur. Tu attends."
+   ],
+   "accent_line": 0,
+   "bubble": {
+    "label": "Texto de 18 h 30",
+    "text": "Allo! Le duplex à Trois-Rivières, est-ce qu'on peut le voir samedi?"
+   },
+   "after": "Et tu recommences pour chaque visite."
+  },
+  {
+   "type": "card",
+   "kicker": "Avec un agent IA",
+   "intro": "voici ce qui se fait tout seul :",
+   "title": "Visite planifiée",
+   "tag": "Automatique",
+   "rows": [
+    [
+     "Demande",
+     "Duplex · Trois-Rivières"
+    ],
+    [
+     "Acheteur",
+     "Préqualifié"
+    ],
+    [
+     "Vendeur",
+     "Dispo confirmée"
+    ],
+    [
+     "Visite",
+     "Samedi 10 h 30"
+    ],
+    [
+     "Rappel",
+     "Envoyé la veille"
+    ]
+   ],
+   "confirm": [
+    "Visite ajoutée au calendrier",
+    "Samedi 10:30 · Sophie L. · duplex"
+   ]
+  },
+  {
+   "type": "statement",
+   "kicker": "Par exemple",
+   "lines": [
+    "Jusqu'à 5 heures",
+    "de moins par",
+    "semaine."
+   ],
+   "accent_line": 0,
+   "after": "Du temps pour tes clients.",
+   "dark": true
+  },
+  {
+   "type": "cta",
+   "lines": [
+    "Moins de coordination.",
+    "Plus de ventes."
+   ],
+   "keyword": "AUDIT",
+   "sub": "et on t'envoie 3 tâches que ton entreprise peut automatiser.",
+   "free": "Gratuit."
+  }
+ ],
+ "caption": "En Mauricie, une visite, c'est souvent 6 textos et 3 appels avant même d'ouvrir la porte. Un agent IA coordonne acheteur, vendeur et calendrier, et envoie les rappels.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Immobilier #AgentIA #Automatisation #Mauricie"
+}

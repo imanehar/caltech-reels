@@ -1,9 +1,6 @@
 {
- "idx": 40,
+ "idx": 43,
  "recent_hooks": [
-  "Dimanche, 22 h. Une cliente veut un manteau en M.",
-  "Combien d'heures sur les demandes de réparation?",
-  "Combien te coûte un appel manqué sur le chantier?",
   "-30 à Rouyn. La fournaise lâche.",
   "Tes soirées passent dans la paperasse?",
   "5 h 40. Première tempête. Le téléphone sonne déjà.",
@@ -30,6 +27,9 @@
   "Combien d'heures à coordonner tes sous-traitants?",
   "Combien te coûte un entretien de fournaise oublié?",
   "Tes électriciens attendent après le bureau?",
-  "Tes contrats de déneigement sont tous signés?"
+  "Tes contrats de déneigement sont tous signés?",
+  "22 h 07. Un client t'envoie ses reçus.",
+  "Combien d'heures à planifier tes visites?",
+  "Combien te coûte un rendez-vous oublié?"
  ]
 }

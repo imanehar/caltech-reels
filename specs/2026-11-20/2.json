@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-20-2",
+  "music": 2,
+  "meta": {"hook": "Ton répartiteur passe sa journée au téléphone?", "format": "3-taches", "industry": "Transport / logistique", "region": "Centre-du-Québec"},
+  "scenes": [
+    {"type": "hook", "kicker": "Transport · Centre-du-Québec", "lines": ["Ton répartiteur", "passe sa journée", "au téléphone?"], "accent_line": 2,
+     "sub": "« Il arrive quand, mon stock? » Encore.", "pill": "3 tâches à confier"},
+    {"type": "list", "dark": false, "title": "3 tâches à confier à un agent IA cette semaine", "items": [
+      ["Confirmer les livraisons", "Le client reçoit sa plage horaire par texto."],
+      ["Répondre au « il est où? »", "Statut de la livraison, même à 18 h."],
+      ["Préparer les factures", "Bon signé reçu = facture prête à valider."]]},
+    {"type": "statement", "kicker": "Pendant ce temps", "lines": ["Ton répartiteur", "planifie demain."], "accent_line": 1,
+     "bubble": {"label": "Texto de 14 h 10", "text": "Bonjour! Ta livraison de Transport Lavoie arrive entre 15 h et 16 h. Réponds OK pour confirmer."},
+     "after": "Et le téléphone sonne beaucoup moins."},
+    {"type": "cta", "lines": ["Moins d'appels.", "Plus de livraisons."], "keyword": "AUDIT",
+     "sub": "et on t'envoie 3 tâches que ton entreprise peut automatiser.", "free": "Gratuit."}
+  ],
+  "caption": "Au Centre-du-Québec, entre Drummondville et Victoriaville, chaque appel « il est où? » coupe ta répartition. Un agent IA confirme les livraisons, répond aux clients et prépare les factures.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Transport #AgentIA #Automatisation #CentreDuQuébec"
+}

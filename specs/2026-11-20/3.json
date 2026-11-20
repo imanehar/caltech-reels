@@ -1,0 +1,26 @@
+{
+  "id": "2026-11-20-3",
+  "music": 0,
+  "meta": {"hook": "6 h 48. Une demande de prix arrive.", "format": "regarde-comment", "industry": "Manufacturiers", "region": "Saguenay–Lac-Saint-Jean"},
+  "scenes": [
+    {"type": "hook", "kicker": "Manufacturier · Saguenay", "lines": ["6 h 48.", "Une demande de", "prix arrive."], "accent_line": 0,
+     "sub": "Ton estimateur, lui, arrive à 8 h.", "pill": "Regarde ce qui se passe"},
+    {"type": "notif", "time": "06:48", "date": "vendredi 20 novembre", "label": "Nouveau courriel · ventes", "title": "Demande de prix · 400 supports",
+     "lines": ["Sylvie R. · Alma", "Plan PDF joint"], "caption": "D'habitude, elle dort dans la boîte."},
+    {"type": "chat", "business": "Métal Fjord", "initials": "MF", "badge": "Réponse en 45 secondes", "messages": [
+      {"side": "ai", "text": "Bonjour Sylvie! Ici l'assistant de Métal Fjord. Merci pour ta demande de prix."},
+      {"side": "ai", "text": "J'ai bien reçu le plan. Fini galvanisé ou peint? Et pour quelle date?"},
+      {"side": "client", "text": "Galvanisé. Idéalement avant le 15 janvier."},
+      {"side": "ai", "text": "Parfait. Notre estimateur te confirme le prix d'ici midi."},
+      {"side": "client", "text": "Super, merci!"}]},
+    {"type": "card", "kicker": "À 8 h", "intro": "l'estimateur trouve ça :", "title": "Demande de prix", "tag": "Prête à chiffrer",
+     "rows": [["Client", "Sylvie R. · Alma"], ["Pièce", "Support · plan rév. B"], ["Quantité", "400"], ["Fini", "Galvanisé"], ["Livraison", "Avant le 15 janvier"], ["Plan", "PDF joint"]],
+     "confirm": ["Brouillon de soumission créé", "Matériaux pré-calculés · à valider"]},
+    {"type": "statement", "kicker": "3 jours plus tard", "lines": ["La relance part", "toute seule."], "accent_line": 1,
+     "bubble": {"label": "Relance automatique", "text": "Bonjour Sylvie! As-tu eu le temps de regarder notre prix? On peut réserver ta production."},
+     "after": "Ton estimateur, lui, chiffre."},
+    {"type": "cta", "lines": ["Chaque demande de prix", "traitée avant 8 h."], "keyword": "AUDIT",
+     "sub": "et on t'envoie 3 tâches que ton entreprise peut automatiser.", "free": "Gratuit."}
+  ],
+  "caption": "Au Saguenay–Lac-Saint-Jean, une demande de prix qui attend, c'est un contrat qui part ailleurs. Un agent IA répond, complète les infos et prépare le brouillon pour ton estimateur.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Manufacturier #AgentIA #Automatisation #Saguenay"
+}

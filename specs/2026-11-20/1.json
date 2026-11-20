@@ -1,0 +1,20 @@
+{
+  "id": "2026-11-20-1",
+  "music": 1,
+  "meta": {"hook": "Tes partys de Noël arrivent en vrac?", "format": "avant-apres", "industry": "Restaurants / traiteurs", "region": "Chaudière-Appalaches"},
+  "scenes": [
+    {"type": "hook", "kicker": "Traiteur · Chaudière-Appalaches", "lines": ["Tes partys de", "Noël arrivent", "en vrac?"], "accent_line": 2,
+     "sub": "Texto, courriel, Messenger… pis la cuisine attend.", "pill": "Avant / après"},
+    {"type": "list", "dark": false, "title": "Avant", "items": [
+      ["Demandes éparpillées", "Texto, courriel, Messenger : rien au même endroit."],
+      ["Soumissions le soir", "Menu, nombre de personnes, prix : à la main, tard."],
+      ["Infos perdues en route", "Une allergie notée au téléphone n'arrive pas en cuisine."]]},
+    {"type": "list", "dark": true, "title": "Après", "items": [
+      ["Tout dans une seule liste", "Chaque demande captée, peu importe d'où elle vient."],
+      ["Soumission préparée seule", "L'agent la prépare. Toi, tu valides."],
+      ["Fiche cuisine complète", "Nombre, allergies, heure de livraison."]]},
+    {"type": "cta", "lines": ["Plus de partys bookés.", "Moins de soirées au bureau."], "keyword": "AUDIT",
+     "sub": "et on t'envoie 3 tâches que ton entreprise peut automatiser.", "free": "Gratuit."}
+  ],
+  "caption": "De Lévis à la Beauce, la saison des partys de bureau, c'est maintenant. Un agent IA capte chaque demande, prépare la soumission et envoie une fiche complète à ta cuisine.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Traiteur #AgentIA #Automatisation #ChaudièreAppalaches"
+}

@@ -1,0 +1,73 @@
+{
+ "id": "2026-11-21-3",
+ "music": 0,
+ "meta": {
+  "hook": "Tes extras de chantier sont tous facturés?",
+  "format": "avant-apres",
+  "industry": "Rénovation / construction",
+  "region": "Côte-Nord"
+ },
+ "scenes": [
+  {
+   "type": "hook",
+   "kicker": "Rénovation · Côte-Nord",
+   "lines": [
+    "Tes extras de",
+    "chantier sont",
+    "tous facturés?"
+   ],
+   "accent_line": 2,
+   "sub": "« On rajoute une prise, tant qu'à y être. »",
+   "pill": "Avant / après"
+  },
+  {
+   "type": "list",
+   "dark": false,
+   "title": "Avant",
+   "items": [
+    [
+     "Extras notés sur un papier",
+     "Oublié dans le camion, perdu la semaine d'après."
+    ],
+    [
+     "Oubliés à la facture",
+     "Le travail est fait, mais jamais chargé."
+    ],
+    [
+     "Client surpris",
+     "« Ah, ça c'était pas dans le prix? »"
+    ]
+   ]
+  },
+  {
+   "type": "list",
+   "dark": true,
+   "title": "Après",
+   "items": [
+    [
+     "Dicté en 20 secondes",
+     "Ton gars le dit au téléphone, l'agent l'écrit."
+    ],
+    [
+     "Approuvé par texto",
+     "Le client voit le prix et répond OUI."
+    ],
+    [
+     "Ajouté à la facture",
+     "Rien à retaper au bureau."
+    ]
+   ]
+  },
+  {
+   "type": "cta",
+   "lines": [
+    "Chaque extra approuvé.",
+    "Chaque extra facturé."
+   ],
+   "keyword": "AUDIT",
+   "sub": "et on t'envoie 3 tâches que ton entreprise peut automatiser.",
+   "free": "Gratuit."
+  }
+ ],
+ "caption": "De Baie-Comeau à Sept-Îles, les petits extras de chantier s'additionnent vite. Un agent IA les note, les fait approuver par le client et les ajoute à la facture.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #Rénovation #AgentIA #Automatisation #CôteNord"
+}

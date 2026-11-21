@@ -1,0 +1,20 @@
+{
+  "id": "2026-11-21-1",
+  "music": 1,
+  "meta": {"hook": "Combien d'heures à répondre aux mêmes questions?", "format": "sauve-du-temps", "industry": "Commerce de détail", "region": "Bas-Saint-Laurent"},
+  "scenes": [
+    {"type": "hook", "kicker": "Boutique · Bas-Saint-Laurent", "lines": ["Combien d'heures", "à répondre aux", "mêmes questions?"], "accent_line": 2,
+     "sub": "« Vous l'avez en stock? » « Vous fermez à quelle heure? »", "pill": "Le calcul"},
+    {"type": "statement", "kicker": "À la main", "lines": ["Un client écrit.", "Tu lâches la caisse.", "Tu vas vérifier."], "accent_line": 0,
+     "bubble": {"label": "Messenger · 11 h 42", "text": "Allo! Avez-vous encore les bottes d'hiver en 38? Je passerais après le travail."},
+     "after": "Pis ça recommence 20 fois par jour."},
+    {"type": "card", "kicker": "Avec un agent IA", "intro": "voici ce qui se fait tout seul :", "title": "Question réglée", "tag": "Automatique",
+     "rows": [["Question", "Bottes d'hiver · 38"], ["Inventaire", "2 en stock"], ["Réponse", "Envoyée en 20 s"], ["Mise de côté", "Jusqu'à 18 h"], ["Rappel", "Texto à 16 h"]],
+     "confirm": ["Article mis de côté", "Julie D. · bottes 38 · ce soir"]},
+    {"type": "statement", "kicker": "Par exemple", "lines": ["Jusqu'à 6 heures", "de moins par", "semaine."], "accent_line": 0,
+     "after": "Du temps pour tes clients en boutique.", "dark": true},
+    {"type": "cta", "lines": ["Moins de messages.", "Plus de ventes."], "keyword": "AUDIT",
+     "sub": "et on t'envoie 3 tâches que ton entreprise peut automatiser.", "free": "Gratuit."}
+  ],
+  "caption": "Dans le Bas-Saint-Laurent, avant le magasinage des Fêtes, les mêmes questions arrivent par Messenger toute la journée. Un agent IA vérifie l'inventaire, répond et met l'article de côté.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #CommerceDeDétail #AgentIA #Automatisation #BasSaintLaurent"
+}

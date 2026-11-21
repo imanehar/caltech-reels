@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-21-2",
+  "music": 2,
+  "meta": {"hook": "Combien te coûte un logement vide un mois?", "format": "cout-cache", "industry": "Gestion immobilière", "region": "Abitibi-Témiscamingue"},
+  "scenes": [
+    {"type": "hook", "kicker": "Immeubles · Abitibi-Témiscamingue", "lines": ["Combien te coûte", "un logement", "vide un mois?"], "accent_line": 2,
+     "sub": "Souvent, ça commence par un renouvellement oublié.", "pill": "Le calcul"},
+    {"type": "statement", "kicker": "Par exemple", "lines": ["Loyer : 1 100 $.", "1 mois vide.", "= 1 100 $ perdus."], "accent_line": 2,
+     "bubble": {"label": "Courriel du locataire", "text": "Bonjour, on n'a jamais reçu d'avis pour le bail. On a signé ailleurs pour juillet."},
+     "after": "Sans compter la peinture pis les annonces.", "dark": true},
+    {"type": "card", "kicker": "Avec un agent IA", "intro": "le gestionnaire reçoit ça :", "title": "Suivi des baux", "tag": "À jour",
+     "rows": [["Immeuble", "Rouyn-Noranda · 12 log."], ["Fin de bail", "30 juin"], ["Avis", "Envoyé à temps"], ["Réponse", "Renouvelle · 12 mois"], ["Logement 4", "Pas de réponse"], ["Rappel", "Prévu lundi"]],
+     "confirm": ["Relance envoyée au logement 4", "Si départ : annonce prête"]},
+    {"type": "cta", "lines": ["Moins de logements vides.", "Moins de stress en juin."], "keyword": "AUDIT",
+     "sub": "et on t'envoie 3 tâches que ton entreprise peut automatiser.", "free": "Gratuit."}
+  ],
+  "caption": "En Abitibi-Témiscamingue comme ailleurs, un avis de renouvellement oublié peut coûter un mois de loyer. Un agent IA suit chaque bail, envoie les avis et relance ceux qui ne répondent pas.\n\n👉 Commente « AUDIT » et on t'envoie 3 tâches que ton entreprise peut automatiser. Gratuit.\n\n🤖 Vidéo générée par IA — Groupe Caltech\n#PMEQuébec #GestionImmobilière #AgentIA #Automatisation #Abitibi"
+}
